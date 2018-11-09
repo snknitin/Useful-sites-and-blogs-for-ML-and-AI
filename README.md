@@ -43,3 +43,4 @@ This repository contains useful
 ## Data Visualization
 
 * [Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+* [3D viz for hyperparameter tuning](https://towardsdatascience.com/using-3d-visualizations-to-tune-hyperparameters-of-ml-models-with-python-ba2885eab2e9)
