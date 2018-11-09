@@ -18,8 +18,13 @@ This repository contains useful
 
 ### DL
 
+* [Best Intro to types of CNN](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
+
 ### RL
 
+* [A2C- Advantage actor critic, Intuition explained in a  comic strip](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
+
+### Feature Engineering
 
 ## Pandas
 
