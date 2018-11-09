@@ -38,3 +38,8 @@ This repository contains useful
 
 
 ## Scikit-learn
+
+
+## Data Visualization
+
+* [Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
