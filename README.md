@@ -22,7 +22,9 @@ This repository contains useful
 
 ### RL
 
+* [DeepRL Bootcamp lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [A2C- Advantage actor critic, Intuition explained in a  comic strip](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
+
 
 ### Feature Engineering
 
