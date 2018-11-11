@@ -21,12 +21,14 @@ This repository contains useful
 * [Best Intro to types of CNN](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
 * [When to use CNN,RNN,MLP](https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/)
 * [Time-series forecast wiith RNN](https://towardsdatascience.com/time-series-forecasting-with-rnns-ff22683bbbb0)
+* [LSTM for time series](https://towardsdatascience.com/using-lstms-for-stock-market-predictions-tensorflow-9e83999d4653)
 
 ### RL
 
 * [DeepRL Bootcamp lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [A2C- Advantage actor critic, Intuition explained in a  comic strip](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
 * [Simple RL series - A3C](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
+* [Proximal Policy Optimization (PPO) Explained](https://medium.com/@jonathan_hui/rl-proximal-policy-optimization-ppo-explained-77f014ec3f12)
 
 
 ### Feature Engineering
