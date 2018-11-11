@@ -31,7 +31,9 @@ This repository contains useful
 * [Proximal Policy Optimization (PPO) Explained](https://medium.com/@jonathan_hui/rl-proximal-policy-optimization-ppo-explained-77f014ec3f12)
 
 
-### Feature Engineering
+### Feature Engineering or Preprocessing
+
+* [Flatten a nested JSON](https://medium.com/@gis10kwo/converting-nested-json-data-to-csv-using-python-pandas-dc6eddc69175)
 
 ## Pandas
 
