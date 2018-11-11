@@ -64,3 +64,8 @@ This repository contains useful
 
 * [Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 * [3D viz for hyperparameter tuning](https://towardsdatascience.com/using-3d-visualizations-to-tune-hyperparameters-of-ml-models-with-python-ba2885eab2e9)
+
+
+# Other curated lists: 
+
+* [Siraj Raval's videos in order](https://medium.com/@epireve/i-couldt-afford-siraj-raval-s-deep-learning-udacity-course-c41ae2a55554)
