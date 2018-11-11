@@ -19,16 +19,21 @@ This repository contains useful
 ### DL
 
 * [Best Intro to types of CNN](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
+* [When to use CNN,RNN,MLP](https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/)
+* [Time-series forecast wiith RNN](https://towardsdatascience.com/time-series-forecasting-with-rnns-ff22683bbbb0)
 
 ### RL
 
 * [DeepRL Bootcamp lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [A2C- Advantage actor critic, Intuition explained in a  comic strip](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
+* [Simple RL series - A3C](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
 
 
 ### Feature Engineering
 
 ## Pandas
+
+* [Optimizing pandas for speed](https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6)
 
 
 ## Numpy
@@ -38,7 +43,11 @@ This repository contains useful
 
 ## PyTorch
 
+* [GAN in 50 lines](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.6ag2kjgbp)
+
 ## TensorFlow
+
+* [Tensorboard visualization for fashion images  CNN features ](https://towardsdatascience.com/the-4-convolutional-neural-network-models-that-can-classify-your-fashion-images-9fe7f3e5399d)
 
 
 ## Scipy
