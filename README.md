@@ -70,3 +70,8 @@ This repository contains useful
 # Other curated lists: 
 
 * [Siraj Raval's videos in order](https://medium.com/@epireve/i-couldt-afford-siraj-raval-s-deep-learning-udacity-course-c41ae2a55554)
+
+
+# Datasets
+
+* [Public datasets](https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets?fbclid=IwAR2ItypE1C6j3ZlU3CIdi9QvBODOVqKYI0fYZTwvy3uTqLSjvjj0kVqlPnQ)
