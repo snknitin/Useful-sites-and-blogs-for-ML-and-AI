@@ -16,6 +16,9 @@ This repository contains useful
 
 ### NLP
 
+* **Dialogue system(Chatbots):**
+  * [Rasa NLU blog](https://hackernoon.com/demystifying-rasa-nlu-1-training-91a08429c9fb)
+
 * **Coreference Resolution:**
   * [Allen NLP demo](http://demo.allennlp.org/coreference-resolution)
   * [Stanford Coref](https://nlp.stanford.edu/projects/coref.shtml)
