@@ -16,6 +16,11 @@ This repository contains useful
 
 ### NLP
 
+* **Coreference Resolution:**
+  * [Allen NLP demo](http://demo.allennlp.org/coreference-resolution)
+  * [Stanford Coref](https://nlp.stanford.edu/projects/coref.shtml)
+  * [Neural Coref resolution with Spacy](https://github.com/huggingface/neuralcoref)
+
 ### DL
 
 * [Trending DL research papers](http://assert.pub)
