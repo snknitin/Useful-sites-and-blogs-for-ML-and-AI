@@ -26,11 +26,15 @@ This repository contains useful
 
 ### DL
 
+* [FAST.AI](https://www.fast.ai)
+* [Introductory NN](http://neuralnetworksanddeeplearning.com)
 * [Trending DL research papers](http://assert.pub)
 * [Best Intro to types of CNN](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
 * [When to use CNN,RNN,MLP](https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/)
 * [Time-series forecast wiith RNN](https://towardsdatascience.com/time-series-forecasting-with-rnns-ff22683bbbb0)
 * [LSTM for time series](https://towardsdatascience.com/using-lstms-for-stock-market-predictions-tensorflow-9e83999d4653)
+* [Distil blogs](https://distill.pub)
+
 
 ### RL
 
