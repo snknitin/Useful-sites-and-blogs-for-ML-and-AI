@@ -46,6 +46,8 @@ This repository contains useful
 
 ## Keras
 
+* [Deep Lizard's playlist](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
+
 ## PyTorch
 
 * [GAN in 50 lines](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.6ag2kjgbp)
