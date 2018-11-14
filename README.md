@@ -16,7 +16,10 @@ This repository contains useful
 
 ### NLP
 
-* [Oxford NLP course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+* **Full Courses:**
+   * [Oxford NLP course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+   * [Deep NLP in Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+   * [Stanford NLP course](http://web.stanford.edu/class/cs224n/syllabus.html)
 
 * **Dialogue system(Chatbots):**
   * [Rasa NLU blog](https://hackernoon.com/demystifying-rasa-nlu-1-training-91a08429c9fb)
