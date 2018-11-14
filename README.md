@@ -16,6 +16,8 @@ This repository contains useful
 
 ### NLP
 
+* [Oxford NLP course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+
 * **Dialogue system(Chatbots):**
   * [Rasa NLU blog](https://hackernoon.com/demystifying-rasa-nlu-1-training-91a08429c9fb)
 
