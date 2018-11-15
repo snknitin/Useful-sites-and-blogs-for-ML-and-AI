@@ -98,6 +98,7 @@ This repository contains useful
 * [Learning ML and NLP from Quora questions](https://medium.com/machine-learning-in-practice/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
 * [150 Medium blogs](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
 
-# Datasets
+# Datasets or papers
 
 * [Public datasets](https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets?fbclid=IwAR2ItypE1C6j3ZlU3CIdi9QvBODOVqKYI0fYZTwvy3uTqLSjvjj0kVqlPnQ)
+* [Semantic Scholar- for findinf relevant papers](https://www.semanticscholar.org)
