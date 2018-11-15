@@ -33,6 +33,8 @@ This repository contains useful
 
 ### DL
 
+* [Papers roadmap](https://github.com/bjpcjp/Deep-Learning-Papers-Reading-Roadmap)
+* [Awesome papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [FAST.AI](https://www.fast.ai)
 * [Introductory NN](http://neuralnetworksanddeeplearning.com)
 * [Trending DL research papers](http://assert.pub)
