@@ -43,6 +43,7 @@ This repository contains useful
 * [When to use CNN,RNN,MLP](https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/)
 * [Time-series forecast wiith RNN](https://towardsdatascience.com/time-series-forecasting-with-rnns-ff22683bbbb0)
 * [LSTM for time series](https://towardsdatascience.com/using-lstms-for-stock-market-predictions-tensorflow-9e83999d4653)
+* [LST models suite for time series- with code](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
 * [Distil blogs](https://distill.pub)
 
 
