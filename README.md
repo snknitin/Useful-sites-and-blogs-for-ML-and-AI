@@ -53,6 +53,7 @@ This repository contains useful
 * [Simple RL series - A3C](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
 * [Proximal Policy Optimization (PPO) Explained](https://medium.com/@jonathan_hui/rl-proximal-policy-optimization-ppo-explained-77f014ec3f12)
 * [TRPO and PPO](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9)
+* [Deep RL for stock prediciton](https://www.kaggle.com/itoeiji/deep-reinforcement-learning-on-stock-data/notebook)
 
 ### Feature Engineering or Preprocessing
 
