@@ -104,4 +104,5 @@ This repository contains useful
 # Datasets or papers
 
 * [Public datasets](https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets?fbclid=IwAR2ItypE1C6j3ZlU3CIdi9QvBODOVqKYI0fYZTwvy3uTqLSjvjj0kVqlPnQ)
+* [25 datasets for NLP](https://gengo.ai/datasets/the-best-25-datasets-for-natural-language-processing/)
 * [Semantic Scholar- for findinf relevant papers](https://www.semanticscholar.org)
