@@ -47,6 +47,7 @@ This repository contains useful
 * [Distil blogs](https://distill.pub)
 * [Residual networks](https://blog.waya.ai/deep-residual-learning-9610bb62c355)
 * [Deep Resnet codes](https://towardsdatascience.com/understanding-residual-networks-9add4b664b03)
+* [Siamese networks and triplet loss - One shot image recognition](https://towardsdatascience.com/siamese-network-triplet-loss-b4ca82c1aec8)
 
 
 ### RL
