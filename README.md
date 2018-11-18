@@ -104,7 +104,7 @@ This repository contains useful
 * [Discrete data - jittering, spreads out points a bit for when they tend to stack onto the same values](https://thomasleeper.com/Rcourse/Tutorials/jitter.html)
 
 
-# Other curated lists: 
+# Other curated lists/courses: 
 
 * [Siraj Raval's videos in order](https://medium.com/@epireve/i-couldt-afford-siraj-raval-s-deep-learning-udacity-course-c41ae2a55554)
 * [Learning ML and NLP from Quora questions](https://medium.com/machine-learning-in-practice/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
@@ -113,6 +113,7 @@ This repository contains useful
 * [ML tools, libraries and languages](https://github.com/josephmisiti/awesome-machine-learning)
 * [Coding interview university](https://github.com/jwasham/coding-interview-university)
 * [NLP List, languages, toolkits](https://github.com/keon/awesome-nlp)
+* [Computational Statistics](https://people.duke.edu/~ccc14/sta-663/)
 
 # Datasets or papers
 
