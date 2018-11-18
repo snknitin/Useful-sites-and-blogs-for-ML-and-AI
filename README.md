@@ -80,6 +80,7 @@ This repository contains useful
 ## Keras
 
 * [Deep Lizard's playlist](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
+* [Beginner stuff in keras](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 
 ## PyTorch
 
