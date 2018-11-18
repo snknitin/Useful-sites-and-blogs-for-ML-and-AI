@@ -25,6 +25,9 @@ This repository contains useful
 
 * **Dialogue system(Chatbots):**
   * [Rasa NLU blog](https://hackernoon.com/demystifying-rasa-nlu-1-training-91a08429c9fb)
+  
+* **Sentiment Analysis:**
+  * [Using Doc2vec](http://linanqiu.github.io/2015/10/07/word2vec-sentiment/)
 
 * **Coreference Resolution:**
   * [Allen NLP demo](http://demo.allennlp.org/coreference-resolution)
