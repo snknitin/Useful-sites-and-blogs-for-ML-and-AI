@@ -28,6 +28,7 @@ This repository contains useful
   
 * **Sentiment Analysis:**
   * [Using Doc2vec](http://linanqiu.github.io/2015/10/07/word2vec-sentiment/)
+  * [Curated list - Everything you'll need](https://github.com/laugustyniak/awesome-sentiment-analysis)
 
 * **Coreference Resolution:**
   * [Allen NLP demo](http://demo.allennlp.org/coreference-resolution)
