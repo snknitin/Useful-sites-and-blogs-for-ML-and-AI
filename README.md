@@ -34,6 +34,7 @@ This repository contains useful
 ### DL
 
 * [Papers roadmap](https://github.com/bjpcjp/Deep-Learning-Papers-Reading-Roadmap)
+* [Text Book](http://www.deeplearningbook.org)
 * [Awesome papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [Latest and interesting papers- Arxiv sanity](http://www.arxiv-sanity.com)
 * [FAST.AI](https://www.fast.ai)
