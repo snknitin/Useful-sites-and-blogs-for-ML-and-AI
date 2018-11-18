@@ -19,6 +19,7 @@ This repository contains useful
 * **Full Courses:**
    * [Oxford NLP course](https://github.com/oxford-cs-deepnlp-2017/lectures)
    * [Deep NLP in Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+   * [DL for NLP- tutorial](https://github.com/UKPLab/deeplearning4nlp-tutorial)
    * [Stanford NLP course](http://web.stanford.edu/class/cs224n/syllabus.html)
    * [Gatech Notes](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes-10-15-2018.pdf)
    * [Dan Jurafsky-Chris Manning Text book](https://web.stanford.edu/~jurafsky/slp3/)
