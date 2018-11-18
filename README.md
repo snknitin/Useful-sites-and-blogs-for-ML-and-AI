@@ -103,6 +103,7 @@ This repository contains useful
 * [Siraj Raval's videos in order](https://medium.com/@epireve/i-couldt-afford-siraj-raval-s-deep-learning-udacity-course-c41ae2a55554)
 * [Learning ML and NLP from Quora questions](https://medium.com/machine-learning-in-practice/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
 * [150 Medium blogs](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
+* [Data science and AI resources](https://github.com/InnoArchiTech/datascience-ai-machinelearning-resources)
 
 # Datasets or papers
 
