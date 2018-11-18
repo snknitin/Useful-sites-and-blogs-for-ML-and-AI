@@ -16,6 +16,7 @@ This repository contains useful
 
 ### NLP
 
+* [Unicode - Encode and decode issue with python 2.7 and 3.6](https://nedbatchelder.com/text/unipain.html)
 * **Full Courses:**
    * [Oxford NLP course](https://github.com/oxford-cs-deepnlp-2017/lectures)
    * [Deep NLP in Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
