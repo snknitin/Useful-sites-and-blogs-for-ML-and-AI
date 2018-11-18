@@ -105,6 +105,7 @@ This repository contains useful
 * [150 Medium blogs](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
 * [Data science and AI resources](https://github.com/InnoArchiTech/datascience-ai-machinelearning-resources)
 * [ML tools, libraries and languages](https://github.com/josephmisiti/awesome-machine-learning)
+* [Coding interview university](https://github.com/jwasham/coding-interview-university)
 
 # Datasets or papers
 
