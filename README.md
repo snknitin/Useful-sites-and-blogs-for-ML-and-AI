@@ -107,6 +107,7 @@ This repository contains useful
 * [Data science and AI resources](https://github.com/InnoArchiTech/datascience-ai-machinelearning-resources)
 * [ML tools, libraries and languages](https://github.com/josephmisiti/awesome-machine-learning)
 * [Coding interview university](https://github.com/jwasham/coding-interview-university)
+* [NLP List, languages, toolkits](https://github.com/keon/awesome-nlp)
 
 # Datasets or papers
 
