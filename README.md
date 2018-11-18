@@ -13,6 +13,7 @@ This repository contains useful
 
 ### ML
 
+* [MCMC without the bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 
 ### NLP
 
