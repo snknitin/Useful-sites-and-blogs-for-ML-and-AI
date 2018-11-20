@@ -21,6 +21,7 @@ This repository contains useful
 ### NLP
 
 * [Unicode - Encode and decode issue with python 2.7 and 3.6](https://nedbatchelder.com/text/unipain.html)
+* [RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * **Full Courses:**
    * [Oxford NLP course](https://github.com/oxford-cs-deepnlp-2017/lectures)
    * [Deep NLP in Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
