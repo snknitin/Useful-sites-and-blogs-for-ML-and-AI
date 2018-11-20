@@ -13,6 +13,7 @@ This repository contains useful
 
 ### ML+PGM
 
+* [ML Cheat sheet with good theory explanations](http://www.datascienceassn.org/sites/default/files/Machine%20Learning%20Cheat%20Sheet%202015.pdf)
 * [MCMC without the bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 * [Fitting gaussian processes](https://blog.dominodatalab.com/fitting-gaussian-process-models-python/)
 
