@@ -128,6 +128,7 @@ This repository contains useful
 * [Coding interview university](https://github.com/jwasham/coding-interview-university)
 * [NLP List, languages, toolkits](https://github.com/keon/awesome-nlp)
 * [Computational Statistics](https://people.duke.edu/~ccc14/sta-663/)
+* [All cheat sheets](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 
 # Datasets or papers
 
