@@ -11,9 +11,11 @@ This repository contains useful
 
 ## Concepts
 
-### ML
+### ML+PGM
 
 * [MCMC without the bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+* [Fitting gaussian processes](https://blog.dominodatalab.com/fitting-gaussian-process-models-python/)
+
 
 ### NLP
 
