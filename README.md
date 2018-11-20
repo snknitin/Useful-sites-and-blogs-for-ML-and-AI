@@ -54,6 +54,7 @@ This repository contains useful
 * [Awesome papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [Latest and interesting papers- Arxiv sanity](http://www.arxiv-sanity.com)
 * [FAST.AI](https://www.fast.ai)
+* [Course by fast.ai](https://course.fast.ai)
 * [Introductory NN](http://neuralnetworksanddeeplearning.com)
 * [Trending DL research papers](http://assert.pub)
 * [Best Intro to types of CNN](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
