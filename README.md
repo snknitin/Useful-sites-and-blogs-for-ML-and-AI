@@ -144,3 +144,4 @@ This repository contains useful
 # Blogs and weekly sites
 
 * [KDnuggets](https://www.kdnuggets.com)
+* [LSH](https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4)
