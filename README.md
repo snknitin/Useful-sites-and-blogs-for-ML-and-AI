@@ -63,6 +63,7 @@ This repository contains useful
 * [When to use CNN,RNN,MLP](https://machinelearningmastery.com/when-to-use-mlp-cnn-and-rnn-neural-networks/)
 * [Time-series forecast wiith RNN](https://towardsdatascience.com/time-series-forecasting-with-rnns-ff22683bbbb0)
 * [LSTM for time series](https://towardsdatascience.com/using-lstms-for-stock-market-predictions-tensorflow-9e83999d4653)
+* [Kaggle time series- siraj raval](https://www.kaggle.com/learn/time-series-with-siraj)
 * [LST models suite for time series- with code](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
 * [Distil blogs](https://distill.pub)
 * [Residual networks](https://blog.waya.ai/deep-residual-learning-9610bb62c355)
