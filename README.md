@@ -80,6 +80,7 @@ This repository contains useful
 * [Proximal Policy Optimization (PPO) Explained](https://medium.com/@jonathan_hui/rl-proximal-policy-optimization-ppo-explained-77f014ec3f12)
 * [TRPO and PPO](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9)
 * [Deep RL for stock prediciton](https://www.kaggle.com/itoeiji/deep-reinforcement-learning-on-stock-data/notebook)
+* [AI playing street fighter](https://medium.com/gyroscopesoftware/how-we-built-an-ai-to-play-street-fighter-ii-can-you-beat-it-9542ba43f02b)
 
 ### Feature Engineering or Preprocessing
 
