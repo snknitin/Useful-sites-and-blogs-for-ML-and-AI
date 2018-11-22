@@ -147,3 +147,4 @@ This repository contains useful
 
 * [KDnuggets](https://www.kdnuggets.com)
 * [LSH](https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4)
+* [Quantitative data science for predicitng stocks](https://www.quantopian.com/algorithms)
