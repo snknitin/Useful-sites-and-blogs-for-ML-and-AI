@@ -135,6 +135,7 @@ This repository contains useful
 * [NLP List, languages, toolkits](https://github.com/keon/awesome-nlp)
 * [Computational Statistics](https://people.duke.edu/~ccc14/sta-663/)
 * [All cheat sheets](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+* [Google Cloud platform course](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals/home/welcome)
 
 # Datasets or papers
 
