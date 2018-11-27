@@ -51,6 +51,7 @@ This repository contains useful
 ### DL
 
 * [Cheat sheets for types of NN](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+* [Stanford Cheatsheets](https://github.com/afshinea/stanford-cs-230-deep-learning)
 * [Papers roadmap](https://github.com/bjpcjp/Deep-Learning-Papers-Reading-Roadmap)
 * [Text Book](http://www.deeplearningbook.org)
 * [Awesome papers](https://github.com/terryum/awesome-deep-learning-papers)
