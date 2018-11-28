@@ -111,6 +111,7 @@ This repository contains useful
 * [Tensorboard visualization for fashion images  CNN features ](https://towardsdatascience.com/the-4-convolutional-neural-network-models-that-can-classify-your-fashion-images-9fe7f3e5399d)
 * [Why tf.data is much better than feed_dict and how to build a simple data pipeline in 5 minutes.](https://dominikschmidt.xyz/tensorflow-data-pipeline/)
 * [Adanet](https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html)
+* [Graphnets](https://github.com/deepmind/graph_nets)
 
 ## Scipy
 
