@@ -137,6 +137,7 @@ This repository contains useful
 * [Computational Statistics](https://people.duke.edu/~ccc14/sta-663/)
 * [All cheat sheets](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 * [Google Cloud platform course](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals/home/welcome)
+* [All Courses offered by Big companies](https://www.reddit.com/r/artificial/comments/a14mel/amazon_opens_its_internal_machine_learning/ean1dja)
 
 # Datasets or papers
 
