@@ -133,6 +133,10 @@ This repository contains useful
 * [Discrete data - jittering, spreads out points a bit for when they tend to stack onto the same values](https://thomasleeper.com/Rcourse/Tutorials/jitter.html)
 
 
+## Timeseries
+
+* [ML on timeseries data](https://www.reddit.com/r/MachineLearning/comments/9ofd7x/d_machine_learning_on_time_series_data/)
+
 # Other curated lists/courses: 
 
 * [Siraj Raval's videos in order](https://medium.com/@epireve/i-couldt-afford-siraj-raval-s-deep-learning-udacity-course-c41ae2a55554)
