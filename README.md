@@ -86,6 +86,11 @@ This repository contains useful
 * [Move 37 course](https://www.theschool.ai/courses/move-37-course/lessons/introduction/)
 * [MAME toolkit for game roms](https://github.com/M-J-Murray/MAMEToolkit?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
+
+### GPU related and MPI
+
+* [NVIDIA tips and tricks](https://wiki.archlinux.org/index.php/NVIDIA/Tips_and_tricks#Enabling_overclocking)
+
 ### Feature Engineering or Preprocessing
 
 * [Flatten a nested JSON](https://medium.com/@gis10kwo/converting-nested-json-data-to-csv-using-python-pandas-dc6eddc69175)
