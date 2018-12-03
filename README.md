@@ -162,6 +162,7 @@ This repository contains useful
 
 # Blogs and weekly sites
 
+* [Machine learning +](https://www.machinelearningplus.com)
 * [KDnuggets](https://www.kdnuggets.com)
 * [LSH](https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4)
 * [Quantitative data science for predicitng stocks](https://www.quantopian.com/algorithms)
