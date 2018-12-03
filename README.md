@@ -86,6 +86,10 @@ This repository contains useful
 * [Move 37 course](https://www.theschool.ai/courses/move-37-course/lessons/introduction/)
 * [MAME toolkit for game roms](https://github.com/M-J-Murray/MAMEToolkit?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
+### Data Science
+
+* [ANOVA one way and 2 way](https://www.technologynetworks.com/informatics/articles/one-way-vs-two-way-anova-definition-differences-assumptions-and-hypotheses-306553)
+
 
 ### GPU related and MPI
 
