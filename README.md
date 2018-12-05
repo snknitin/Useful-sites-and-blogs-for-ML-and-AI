@@ -91,6 +91,10 @@ This repository contains useful
 * [ANOVA one way and 2 way](https://www.technologynetworks.com/informatics/articles/one-way-vs-two-way-anova-definition-differences-assumptions-and-hypotheses-306553)
 
 
+### Graphical models
+
+* [MCMC explained](http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html)
+
 ### GPU related and MPI
 
 * [NVIDIA tips and tricks](https://wiki.archlinux.org/index.php/NVIDIA/Tips_and_tricks#Enabling_overclocking)
@@ -167,6 +171,7 @@ This repository contains useful
 # Blogs and weekly sites
 
 * [Machine learning +](https://www.machinelearningplus.com)
+* [Brilliantly Wrong](http://arogozhnikov.github.io)
 * [KDnuggets](https://www.kdnuggets.com)
 * [LSH](https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4)
 * [Quantitative data science for predicitng stocks](https://www.quantopian.com/algorithms)
