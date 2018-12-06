@@ -98,6 +98,7 @@ This repository contains useful
 ### GPU related and MPI
 
 * [NVIDIA tips and tricks](https://wiki.archlinux.org/index.php/NVIDIA/Tips_and_tricks#Enabling_overclocking)
+* [Horovod vs CollectiveAllReduce](https://www.logicalclocks.com/goodbye-horovod-hello-tensorflow-collectiveallreduce/)
 
 ### Feature Engineering or Preprocessing
 
