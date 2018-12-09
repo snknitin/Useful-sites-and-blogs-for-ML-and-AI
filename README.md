@@ -77,6 +77,7 @@ This repository contains useful
 ### RL
 
 * [DeepRL Bootcamp lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+* [Udacity nano degree codes ](https://github.com/udacity/deep-reinforcement-learning)
 * [DeepRL in TensorFlow - codes](https://github.com/carpedm20/deep-rl-tensorflow)
 * [A2C- Advantage actor critic, Intuition explained in a  comic strip](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
 * [Simple RL series - A3C](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
