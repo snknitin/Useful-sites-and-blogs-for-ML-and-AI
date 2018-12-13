@@ -187,4 +187,4 @@ This repository contains useful
 # Youtube Playlists
 
 * [2 minute papers](https://www.youtube.com/user/keeroyz)
-* 
+* [Arxiv insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg
