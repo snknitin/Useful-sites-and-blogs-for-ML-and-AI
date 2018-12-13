@@ -175,6 +175,7 @@ This repository contains useful
 # Blogs and weekly sites
 
 * [Machine learning +](https://www.machinelearningplus.com)
+* [DeepHunt](https://deephunt.in)
 * [Brilliantly Wrong](http://arogozhnikov.github.io)
 * [KDnuggets](https://www.kdnuggets.com)
 * [LSH](https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4)
