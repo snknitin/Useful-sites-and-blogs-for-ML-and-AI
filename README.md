@@ -177,6 +177,8 @@ This repository contains useful
 * [Machine learning +](https://www.machinelearningplus.com)
 * [DeepHunt](https://deephunt.in)
 * [Brilliantly Wrong](http://arogozhnikov.github.io)
+* [Kaggle kernels](https://blog.shahinrostami.com)
+* [1 minute videos](https://www.turingtribe.com)
 * [KDnuggets](https://www.kdnuggets.com)
 * [LSH](https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4)
 * [Quantitative data science for predicitng stocks](https://www.quantopian.com/algorithms)
