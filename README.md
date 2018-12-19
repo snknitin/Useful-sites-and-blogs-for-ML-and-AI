@@ -172,7 +172,7 @@ This repository contains useful
 * [Semantic Scholar- for findinf relevant papers](https://www.semanticscholar.org)
 
 
-# Blogs and weekly sites
+# Blogs and weekly sites/ contests
 
 * [Machine learning +](https://www.machinelearningplus.com)
 * [DeepHunt](https://deephunt.in)
@@ -182,6 +182,7 @@ This repository contains useful
 * [KDnuggets](https://www.kdnuggets.com)
 * [LSH](https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4)
 * [Quantitative data science for predicitng stocks](https://www.quantopian.com/algorithms)
+* [TLDR challenge](https://www.reddit.com/r/MachineLearning/comments/a6erpw/project_the_tldr_challenge/?utm_source=reddit-android)
 
 
 # Youtube Playlists
