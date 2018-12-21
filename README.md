@@ -151,6 +151,7 @@ This repository contains useful
 ## Timeseries
 
 * [ML on timeseries data](https://www.reddit.com/r/MachineLearning/comments/9ofd7x/d_machine_learning_on_time_series_data/)
+* [Time series in TF](https://burakhimmetoglu.com/2017/08/22/time-series-classification-with-tensorflow/)
 
 # Other curated lists/courses: 
 
