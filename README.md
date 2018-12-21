@@ -119,6 +119,7 @@ This repository contains useful
 * [Deep Lizard's playlist](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
 * [Beginner stuff in keras](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 * [Early stopping for validation](https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/)
+* [Layers-Wrapper](https://github.com/keras-team/keras/blob/master/keras/layers/wrappers.py)
 
 ## PyTorch
 
