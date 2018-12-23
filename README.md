@@ -67,6 +67,7 @@ This repository contains useful
 * [LSTM for time series](https://towardsdatascience.com/using-lstms-for-stock-market-predictions-tensorflow-9e83999d4653)
 * [Kaggle time series- siraj raval](https://www.kaggle.com/learn/time-series-with-siraj)
 * [LST models suite for time series- with code](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
+* [Information theory in DL](https://adityashrm21.github.io/Information-Theory-In-Deep-Learning/)
 * [Distil blogs](https://distill.pub)
 * [Residual networks](https://blog.waya.ai/deep-residual-learning-9610bb62c355)
 * [Deep Resnet codes](https://towardsdatascience.com/understanding-residual-networks-9add4b664b03)
