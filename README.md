@@ -74,6 +74,7 @@ This repository contains useful
 * [Siamese networks and triplet loss - One shot image recognition](https://towardsdatascience.com/siamese-network-triplet-loss-b4ca82c1aec8)
 * [GPU programming for deep learning](http://videolectures.net/deeplearning2016_bernauer_olson_deep_learning/)
 * [Neural differential equations](https://medium.com/mit-technology-review/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai-56b6af3fe9a5)
+* [GAN Painter](http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4)
 
 
 ### RL
