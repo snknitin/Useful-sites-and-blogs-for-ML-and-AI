@@ -99,6 +99,11 @@ This repository contains useful
 
 * [MCMC explained](http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html)
 
+
+### Genetic Algorithms
+
+* [Visualizaing evolution strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
+
 ### GPU related and MPI
 
 * [NVIDIA tips and tricks](https://wiki.archlinux.org/index.php/NVIDIA/Tips_and_tricks#Enabling_overclocking)
