@@ -79,6 +79,7 @@ This repository contains useful
 
 ### RL
 
+* [Deep RL](https://medium.com/@yuxili/deeprl-6c8c48b6489b)
 * [DeepRL Bootcamp lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [Udacity nano degree codes ](https://github.com/udacity/deep-reinforcement-learning)
 * [DeepRL in TensorFlow - codes](https://github.com/carpedm20/deep-rl-tensorflow)
