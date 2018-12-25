@@ -90,6 +90,8 @@ This repository contains useful
 * [AI playing street fighter](https://medium.com/gyroscopesoftware/how-we-built-an-ai-to-play-street-fighter-ii-can-you-beat-it-9542ba43f02b)
 * [Move 37 course](https://www.theschool.ai/courses/move-37-course/lessons/introduction/)
 * [MAME toolkit for game roms](https://github.com/M-J-Murray/MAMEToolkit?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+* [Trading using RL](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/)
+
 
 ### Data Science
 
