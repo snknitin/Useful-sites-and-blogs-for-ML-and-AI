@@ -123,6 +123,7 @@ This repository contains useful
 
 * [Optimizing pandas for speed](https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6)
 * [Loading data from mongo into pandas](http://deo.im/2016/09/22/Load-data-from-mongodb-to-Pandas-DataFrame/)
+* [Faster way to loas tweets from mongo into pandas dataframe](https://alysivji.github.io/importing-mongo-documents-into-pandas-dataframes.html)
 
 
 ## Numpy
