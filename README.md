@@ -155,6 +155,7 @@ This repository contains useful
 ## Data Visualization
 
 * [Top 50 matplotlib code and visualization](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
+* [Matplotlib guide](https://realpython.com/python-matplotlib-guide/)
 * [Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 * [3D viz for hyperparameter tuning](https://towardsdatascience.com/using-3d-visualizations-to-tune-hyperparameters-of-ml-models-with-python-ba2885eab2e9)
 * [Scatter plot with marginal histograms on the axes](https://www.r-bloggers.com/example-8-41-scatterplot-with-marginal-histograms/)
