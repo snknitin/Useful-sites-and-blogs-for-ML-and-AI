@@ -61,6 +61,7 @@ This repository contains useful
 * [Latest and interesting papers- Arxiv sanity](http://www.arxiv-sanity.com)
 * [FAST.AI](https://www.fast.ai)
 * [DL Course for Coders](https://course.fast.ai)
+* [Lecture slides and labnotes from Master Datascience Paris Saclay](https://m2dsupsdlclass.github.io/lectures-labs/)
 * [Introductory NN](http://neuralnetworksanddeeplearning.com)
 * [Trending DL research papers](http://assert.pub)
 * [Best Intro to types of CNN](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
