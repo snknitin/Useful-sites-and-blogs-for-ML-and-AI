@@ -22,6 +22,7 @@ This repository contains useful
 ### NLP
 
 * [BERT](https://www.kdnuggets.com/2018/12/bert-sota-nlp-model-explained.html)
+* [NLP highlights of 2018](https://github.com/omarsar/nlp_highlights/blob/master/NLP_2018_Highlights.pdf)
 * [Unicode - Encode and decode issue with python 2.7 and 3.6](https://nedbatchelder.com/text/unipain.html)
 * [RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
