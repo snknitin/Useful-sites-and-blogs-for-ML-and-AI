@@ -149,6 +149,7 @@ This repository contains useful
 * [Using TF on Colab](https://medium.com/tensorflow/colab-an-easy-way-to-learn-and-use-tensorflow-d74d1686e309)
 * [Why tf.data is much better than feed_dict and how to build a simple data pipeline in 5 minutes.](https://dominikschmidt.xyz/tensorflow-data-pipeline/)
 * [Adanet](https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html)
+* [TensorFlow JS](https://nayak.io/posts/tensorflowjs/)
 * [Graphnets](https://github.com/deepmind/graph_nets)
 
 ## Scipy
