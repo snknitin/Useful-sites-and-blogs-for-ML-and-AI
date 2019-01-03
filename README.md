@@ -150,6 +150,8 @@ This repository contains useful
 * [Why tf.data is much better than feed_dict and how to build a simple data pipeline in 5 minutes.](https://dominikschmidt.xyz/tensorflow-data-pipeline/)
 * [Adanet](https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html)
 * [TensorFlow JS](https://nayak.io/posts/tensorflowjs/)
+* [BERT using TF](https://hanxiao.github.io/2019/01/02/Serving-Google-BERT-in-Production-using-Tensorflow-and-ZeroMQ/
+)
 * [Graphnets](https://github.com/deepmind/graph_nets)
 
 ## Scipy
