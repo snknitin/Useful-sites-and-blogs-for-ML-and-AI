@@ -211,6 +211,7 @@ This repository contains useful
 * [LSH](https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4)
 * [Quantitative data science for predicitng stocks](https://www.quantopian.com/algorithms)
 * [TLDR challenge](https://www.reddit.com/r/MachineLearning/comments/a6erpw/project_the_tldr_challenge/?utm_source=reddit-android)
+* [Top conferences](http://www.guide2research.com/topconf/machine-learning)
 
 
 # Youtube Playlists
