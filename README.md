@@ -83,6 +83,7 @@ This repository contains useful
 
 ### RL
 
+* [ALL RL algos and tutorials](https://github.com/omerbsezer/Reinforcement_learning_tutorial_with_demo)
 * [Deep RL](https://medium.com/@yuxili/deeprl-6c8c48b6489b)
 * [RL textbook Sutton](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
 * [DeepRL Bootcamp lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures)
