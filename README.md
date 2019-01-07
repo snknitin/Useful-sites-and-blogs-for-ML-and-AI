@@ -157,6 +157,7 @@ This repository contains useful
 * [BERT using TF](https://hanxiao.github.io/2019/01/02/Serving-Google-BERT-in-Production-using-Tensorflow-and-ZeroMQ/
 )
 * [Graphnets](https://github.com/deepmind/graph_nets)
+* [TF2 course](https://github.com/ageron/tf2_course)
 
 ## Scipy
 
