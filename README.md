@@ -94,6 +94,7 @@ This repository contains useful
 * [Udacity nano degree codes ](https://github.com/udacity/deep-reinforcement-learning)
 * [DeepRL in TensorFlow - codes](https://github.com/carpedm20/deep-rl-tensorflow)
 * [Atari model zoo](https://github.com/uber-research/atari-model-zoo)
+* [Awesome RL repo](https://github.com/aikorea/awesome-rl)
 * [RL repo ](https://github.com/dennybritz/reinforcement-learning)
 * [A2C- Advantage actor critic, Intuition explained in a  comic strip](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
 * [Simple RL series - A3C](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
