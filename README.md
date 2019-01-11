@@ -89,6 +89,7 @@ This repository contains useful
 * [Deep RL](https://medium.com/@yuxili/deeprl-6c8c48b6489b)
 * [RL textbook Sutton](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
 * [RL map](http://louiskirsch.com/maps/reinforcement-learning)
+* [RL codes for papers](https://paperswithcode.com/search?q=reinforcement+learning)
 * [DeepRL Bootcamp lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [Udacity nano degree codes ](https://github.com/udacity/deep-reinforcement-learning)
 * [DeepRL in TensorFlow - codes](https://github.com/carpedm20/deep-rl-tensorflow)
