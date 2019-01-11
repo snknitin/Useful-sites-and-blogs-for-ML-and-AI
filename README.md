@@ -99,6 +99,7 @@ This repository contains useful
 * [TRPO and PPO](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9)
 * [Deep RL for stock prediciton](https://www.kaggle.com/itoeiji/deep-reinforcement-learning-on-stock-data/notebook)
 * [AI playing street fighter](https://medium.com/gyroscopesoftware/how-we-built-an-ai-to-play-street-fighter-ii-can-you-beat-it-9542ba43f02b)
+* [Pytorch-RL](https://github.com/navneet-nmk/pytorch-rl)
 * [Move 37 course](https://www.theschool.ai/courses/move-37-course/lessons/introduction/)
 * [MAME toolkit for game roms](https://github.com/M-J-Murray/MAMEToolkit?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [Trading using RL](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/)
