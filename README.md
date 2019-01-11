@@ -93,6 +93,7 @@ This repository contains useful
 * [DeepRL Bootcamp lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [Udacity nano degree codes ](https://github.com/udacity/deep-reinforcement-learning)
 * [DeepRL in TensorFlow - codes](https://github.com/carpedm20/deep-rl-tensorflow)
+* [Atari model zoo](https://github.com/uber-research/atari-model-zoo)
 * [A2C- Advantage actor critic, Intuition explained in a  comic strip](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
 * [Simple RL series - A3C](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
 * [Proximal Policy Optimization (PPO) Explained](https://medium.com/@jonathan_hui/rl-proximal-policy-optimization-ppo-explained-77f014ec3f12)
