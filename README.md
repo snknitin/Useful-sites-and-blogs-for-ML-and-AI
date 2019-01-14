@@ -92,6 +92,7 @@ This repository contains useful
 * [RL codes for papers](https://paperswithcode.com/search?q=reinforcement+learning)
 * [DeepRL Bootcamp lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [Udacity nano degree codes ](https://github.com/udacity/deep-reinforcement-learning)
+* [Malthusian Reinforcement Learning](https://arxiv.org/pdf/1812.07019.pdf)
 * [DeepRL in TensorFlow - codes](https://github.com/carpedm20/deep-rl-tensorflow)
 * [Atari model zoo](https://github.com/uber-research/atari-model-zoo)
 * [Awesome RL repo](https://github.com/aikorea/awesome-rl)
