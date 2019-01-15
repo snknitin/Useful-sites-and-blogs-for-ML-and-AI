@@ -110,6 +110,10 @@ This repository contains useful
 * [Modeling long term future in model based RL](https://openreview.net/pdf?id=SkgQBn0cF7)
 
 
+### GANS
+
+* [Convert to hq texture from old games](https://www.resetera.com/threads/ai-neural-networks-being-used-to-generate-hq-textures-for-older-games-you-can-do-it-yourself.88272/)
+
 ### Data Science
 
 * [ANOVA one way and 2 way](https://www.technologynetworks.com/informatics/articles/one-way-vs-two-way-anova-definition-differences-assumptions-and-hypotheses-306553)
