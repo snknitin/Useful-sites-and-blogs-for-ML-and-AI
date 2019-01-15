@@ -218,6 +218,7 @@ This repository contains useful
 * [Brilliantly Wrong](http://arogozhnikov.github.io)
 * [Kaggle kernels](https://blog.shahinrostami.com)
 * [1 minute videos](https://www.turingtribe.com)
+* [End to End RL blog](https://www.endtoend.ai/blog/)
 * [KDnuggets](https://www.kdnuggets.com)
 * [LSH](https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4)
 * [Quantitative data science for predicitng stocks](https://www.quantopian.com/algorithms)
