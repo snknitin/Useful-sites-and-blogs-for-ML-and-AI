@@ -218,6 +218,10 @@ This repository contains useful
 * [Semantic Scholar- for findinf relevant papers](https://www.semanticscholar.org)
 
 
+## Python 
+
+* [Creating and publishing your package](https://python-packaging.readthedocs.io/en/latest/minimal.html)
+
 # Blogs and weekly sites/ contests
 
 * [Machine learning +](https://www.machinelearningplus.com)
