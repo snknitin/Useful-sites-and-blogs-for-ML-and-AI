@@ -99,6 +99,7 @@ This repository contains useful
 * [RL repo ](https://github.com/dennybritz/reinforcement-learning)
 * [Deep RL with tensorflow 2.0](http://inoryy.com/post/tensorflow2-deep-reinforcement-learning/)
 * [A2C- Advantage actor critic, Intuition explained in a  comic strip](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
+* [Actor critic with tf 2.0](https://colab.research.google.com/drive/12QvW7VZSzoaF-Org-u-N6aiTdBN5ohNA)
 * [Simple RL series - A3C](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
 * [Proximal Policy Optimization (PPO) Explained](https://medium.com/@jonathan_hui/rl-proximal-policy-optimization-ppo-explained-77f014ec3f12)
 * [TRPO and PPO](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9)
