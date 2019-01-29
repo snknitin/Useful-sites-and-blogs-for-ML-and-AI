@@ -83,6 +83,7 @@ This repository contains useful
 
 ### RL
 
+* [OpenAI key papers in RL - 98 papers in 12 topics](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 * [Intro to RL blog post](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419)
 * [ALL RL algos and tutorials](https://github.com/omerbsezer/Reinforcement_learning_tutorial_with_demo)
 * [Deep mind RL video playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
