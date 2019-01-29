@@ -110,6 +110,7 @@ This repository contains useful
 * [MAME toolkit for game roms](https://github.com/M-J-Murray/MAMEToolkit?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [Trading using RL](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/)
 * [Modeling long term future in model based RL](https://openreview.net/pdf?id=SkgQBn0cF7)
+* [Front Page of Deep Reinforcement Learning and AGI](https://www.deepcontrol.ai)
 
 
 ### GANS
