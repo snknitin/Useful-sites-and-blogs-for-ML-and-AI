@@ -18,6 +18,8 @@ This repository contains useful
 * [MCMC without the bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 * [Fitting gaussian processes](https://blog.dominodatalab.com/fitting-gaussian-process-models-python/)
 * [Stochastic Optimal Growth model](https://lectures.quantecon.org/py/optgrowth.html)
+* [Code for the book "Artificial Intelligence: A Modern Approach"](https://github.com/aimacode/aima-python)
+
 
 ### NLP
 
