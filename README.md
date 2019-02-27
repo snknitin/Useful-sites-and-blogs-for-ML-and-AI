@@ -139,6 +139,7 @@ This repository contains useful
 * [NVIDIA tips and tricks](https://wiki.archlinux.org/index.php/NVIDIA/Tips_and_tricks#Enabling_overclocking)
 * [Horovod vs CollectiveAllReduce](https://www.logicalclocks.com/goodbye-horovod-hello-tensorflow-collectiveallreduce/)
 * [Cloud ML engine](https://towardsdatascience.com/how-to-train-machine-learning-models-in-the-cloud-using-cloud-ml-engine-3f0d935294b3)
+* [Horovod instructions](https://github.com/horovod/horovod)
 
 ### Feature Engineering or Preprocessing
 
