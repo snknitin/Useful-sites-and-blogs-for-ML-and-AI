@@ -141,6 +141,7 @@ This repository contains useful
 * [Cloud ML engine](https://towardsdatascience.com/how-to-train-machine-learning-models-in-the-cloud-using-cloud-ml-engine-3f0d935294b3)
 * [Horovod instructions](https://github.com/horovod/horovod)
 * [TF with horovod](https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-horovod-tensorflow.html)
+* [Horovod uber blog](https://eng.uber.com/horovod/)
 
 ### Feature Engineering or Preprocessing
 
