@@ -140,6 +140,7 @@ This repository contains useful
 * [Horovod vs CollectiveAllReduce](https://www.logicalclocks.com/goodbye-horovod-hello-tensorflow-collectiveallreduce/)
 * [Cloud ML engine](https://towardsdatascience.com/how-to-train-machine-learning-models-in-the-cloud-using-cloud-ml-engine-3f0d935294b3)
 * [Horovod instructions](https://github.com/horovod/horovod)
+* [TF with horovod](https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-horovod-tensorflow.html)
 
 ### Feature Engineering or Preprocessing
 
