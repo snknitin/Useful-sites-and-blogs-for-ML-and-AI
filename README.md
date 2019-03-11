@@ -203,6 +203,7 @@ This repository contains useful
 * [Time series in TF](https://burakhimmetoglu.com/2017/08/22/time-series-classification-with-tensorflow/)
 * [LSTM for time series](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
 * [Interpolating time series data](https://machinelearningmastery.com/resample-interpolate-time-series-data-python/)
+* [Forecasting sales](https://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/)
 
 # Other curated lists/courses: 
 
