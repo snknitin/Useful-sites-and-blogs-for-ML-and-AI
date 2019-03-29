@@ -196,6 +196,9 @@ This repository contains useful
 * [Discrete data - jittering, spreads out points a bit for when they tend to stack onto the same values](https://thomasleeper.com/Rcourse/Tutorials/jitter.html)
 * [Human population as Terrain](https://pudding.cool/2018/10/city_3d/)
 
+## Vision
+
+* [Image Filtering](https://lodev.org/cgtutor/filtering.html)
 
 ## Timeseries
 
