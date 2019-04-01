@@ -88,6 +88,7 @@ This repository contains useful
 * [OpenAI key papers in RL - 98 papers in 12 topics](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 * [Intro to RL blog post](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419)
 * [ALL RL algos and tutorials](https://github.com/omerbsezer/Reinforcement_learning_tutorial_with_demo)
+* [Creating custom RL gym environments - Ship navigation](https://towardsdatascience.com/openai-gym-from-scratch-619e39af121f)
 * [Deep mind RL video playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 * [Deep RL](https://medium.com/@yuxili/deeprl-6c8c48b6489b)
 * [RL textbook Sutton](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
