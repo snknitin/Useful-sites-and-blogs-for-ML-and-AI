@@ -90,6 +90,7 @@ This repository contains useful
 * [ALL RL algos and tutorials](https://github.com/omerbsezer/Reinforcement_learning_tutorial_with_demo)
 * [Creating custom RL gym environments - Ship navigation](https://towardsdatascience.com/openai-gym-from-scratch-619e39af121f)
 * [Custom env in gym structure](https://medium.com/@apoddar573/making-your-own-custom-environment-in-gym-c3b65ff8cdaa)
+* [Custom gym env examples](https://stackoverflow.com/questions/45068568/how-to-create-a-new-gym-environment-in-openai)
 * [Deep mind RL video playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 * [Deep RL](https://medium.com/@yuxili/deeprl-6c8c48b6489b)
 * [RL textbook Sutton](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
