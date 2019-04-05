@@ -192,6 +192,7 @@ This repository contains useful
 ## Data Visualization
 
 * [Top 50 matplotlib code and visualization](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
+* [Ultimate seaborn guide](https://elitedatascience.com/python-seaborn-tutorial)
 * [Matplotlib guide](https://realpython.com/python-matplotlib-guide/)
 * [Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 * [3D viz for hyperparameter tuning](https://towardsdatascience.com/using-3d-visualizations-to-tune-hyperparameters-of-ml-models-with-python-ba2885eab2e9)
