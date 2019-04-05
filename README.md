@@ -199,6 +199,9 @@ This repository contains useful
 * [Discrete data - jittering, spreads out points a bit for when they tend to stack onto the same values](https://thomasleeper.com/Rcourse/Tutorials/jitter.html)
 * [Human population as Terrain](https://pudding.cool/2018/10/city_3d/)
 * [Seaborn boxplot + swarm](https://stackoverflow.com/questions/44615759/how-can-box-plot-be-overlaid-on-top-of-swarm-plot-in-seaborn)
+* [Categorical seaborn plots](https://seaborn.pydata.org/tutorial/categorical.html)
+
+
 
 ## Vision
 
