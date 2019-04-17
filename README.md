@@ -174,6 +174,7 @@ This repository contains useful
 
 ## TensorFlow
 
+* [2.0 cheatsheet](https://www.altoros.com/blog/tensorflow-cheat-sheet/)
 * [Tensorboard visualization for fashion images  CNN features ](https://towardsdatascience.com/the-4-convolutional-neural-network-models-that-can-classify-your-fashion-images-9fe7f3e5399d)
 * [Using TF on Colab](https://medium.com/tensorflow/colab-an-easy-way-to-learn-and-use-tensorflow-d74d1686e309)
 * [Why tf.data is much better than feed_dict and how to build a simple data pipeline in 5 minutes.](https://dominikschmidt.xyz/tensorflow-data-pipeline/)
