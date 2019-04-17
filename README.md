@@ -20,6 +20,10 @@ This repository contains useful
 * [Stochastic Optimal Growth model](https://lectures.quantecon.org/py/optgrowth.html)
 * [Code for the book "Artificial Intelligence: A Modern Approach"](https://github.com/aimacode/aima-python)
 
+### Unsupervised
+
+* [Deep unsupervised videos series](https://m.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos)
+
 
 ### NLP
 
