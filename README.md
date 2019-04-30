@@ -14,6 +14,7 @@ This repository contains useful
 ### Python Coding pitfalls
 
 * [Import issues](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html)
+* [Import fixes](https://alex.dzyoba.com/blog/python-import/)
 
 ### ML+PGM
 
