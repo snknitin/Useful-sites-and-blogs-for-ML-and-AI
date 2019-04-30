@@ -11,6 +11,10 @@ This repository contains useful
 
 ## Concepts
 
+### Python Coding pitfalls
+
+* [Import issues](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html)
+
 ### ML+PGM
 
 * [What are you reading? ML reddit](https://www.reddit.com/r/MachineLearning/comments/9s9el5/d_machine_learning_wayr_what_are_you_reading_week/)
