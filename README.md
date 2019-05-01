@@ -15,6 +15,7 @@ This repository contains useful
 
 * [Import issues](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html)
 * [Import fixes](https://alex.dzyoba.com/blog/python-import/)
+* [Using pickle or joblib](https://www.stefaanlippens.net/python-pickling-and-dealing-with-attributeerror-module-object-has-no-attribute-thing.html)
 
 ### ML+PGM
 
