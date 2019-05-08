@@ -182,6 +182,7 @@ This repository contains useful
 ## PyTorch
 
 * [GAN in 50 lines](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.6ag2kjgbp)
+* [PyTorch vs TensorFlow — spotting the difference](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
 
 ## TensorFlow
 
