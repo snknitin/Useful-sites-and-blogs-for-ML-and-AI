@@ -185,6 +185,7 @@ This repository contains useful
 * [PyTorch vs TensorFlow — spotting the difference](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
 * [Tensorflow or PyTorch : The force is strong with which one?](https://medium.com/@UdacityINDIA/tensorflow-or-pytorch-the-force-is-strong-with-which-one-68226bb7dab4)
 * [Should I go for TF or PyTorch](https://www.quora.com/Should-I-go-for-TensorFlow-or-PyTorch)
+* [TensorFlow Vs PyTorch: Which Framework Is Better For Implementing Deep Learning Models?](https://www.analyticsindiamag.com/tensorflow-vs-pytorch-which-framework-is-better-for-implementing-deep-learning-models/)
 
 ## TensorFlow
 
