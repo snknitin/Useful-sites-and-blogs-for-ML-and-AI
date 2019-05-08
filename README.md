@@ -67,6 +67,7 @@ This repository contains useful
 ### DL
 
 * [Cheat sheets for types of NN](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+* [Understanding the Diisharmony between Batchnorma nd Dropout](https://arxiv.org/pdf/1801.05134.pdf)
 * [Stanford Cheatsheets](https://github.com/afshinea/stanford-cs-230-deep-learning)
 * [Papers roadmap](https://github.com/bjpcjp/Deep-Learning-Papers-Reading-Roadmap)
 * [Papers with Code](https://paperswithcode.com)
