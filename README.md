@@ -183,6 +183,8 @@ This repository contains useful
 
 * [GAN in 50 lines](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.6ag2kjgbp)
 * [PyTorch vs TensorFlow — spotting the difference](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
+* [Tensorflow or PyTorch : The force is strong with which one?](https://medium.com/@UdacityINDIA/tensorflow-or-pytorch-the-force-is-strong-with-which-one-68226bb7dab4)
+* [Should I go for TF or PyTorch](https://www.quora.com/Should-I-go-for-TensorFlow-or-PyTorch)
 
 ## TensorFlow
 
