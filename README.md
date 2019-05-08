@@ -186,6 +186,11 @@ This repository contains useful
 * [Tensorflow or PyTorch : The force is strong with which one?](https://medium.com/@UdacityINDIA/tensorflow-or-pytorch-the-force-is-strong-with-which-one-68226bb7dab4)
 * [Should I go for TF or PyTorch](https://www.quora.com/Should-I-go-for-TensorFlow-or-PyTorch)
 * [TensorFlow Vs PyTorch: Which Framework Is Better For Implementing Deep Learning Models?](https://www.analyticsindiamag.com/tensorflow-vs-pytorch-which-framework-is-better-for-implementing-deep-learning-models/)
+* [Saving and loading a model in Pytorch](https://stackoverflow.com/questions/42703500/best-way-to-save-a-trained-model-in-pytorch/43819235)
+* [SAVING AND LOADING MODELS](https://pytorch.org/tutorials/beginner/saving_loading_models.html)
+* [Best way to save a trained model in PyTorch](https://discuss.pytorch.org/t/saving-and-loading-a-model-in-pytorch/2610)
+
+
 
 ## TensorFlow
 
