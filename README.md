@@ -11,11 +11,12 @@ This repository contains useful
 
 ## Concepts
 
-### Python Coding pitfalls
+### Python Coding pitfalls or Tricks
 
 * [Import issues](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html)
 * [Import fixes](https://alex.dzyoba.com/blog/python-import/)
 * [Using pickle or joblib](https://www.stefaanlippens.net/python-pickling-and-dealing-with-attributeerror-module-object-has-no-attribute-thing.html)
+* [Vectorization of loops](https://www.cs.utah.edu/~germain/PPS/Topics/Matlab/vectorized_or_array_operations.html)
 
 ### ML+PGM
 
