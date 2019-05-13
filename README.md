@@ -136,6 +136,14 @@ This repository contains useful
 * [Front Page of Deep Reinforcement Learning and AGI](https://www.deepcontrol.ai)
 
 
+### Genetic Algorithms
+
+* [Intro to evolution strategies](https://towardsdatascience.com/introduction-to-evolutionary-algorithms-a8594b484ac)
+* [Salesman example](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)
+* [Deep Neuroevolution](https://towardsdatascience.com/deep-neuroevolution-genetic-algorithms-are-a-competitive-alternative-for-training-deep-neural-822bfe3291f5)
+
+
+
 ### GANS
 
 * [Convert to hq texture from old games](https://www.resetera.com/threads/ai-neural-networks-being-used-to-generate-hq-textures-for-older-games-you-can-do-it-yourself.88272/)
