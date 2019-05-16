@@ -150,6 +150,7 @@ This repository contains useful
 
 ### Data Science
 
+* [Foundations of Datascience Textbook](http://www.cs.cornell.edu/jeh/book.pdf)
 * [ANOVA one way and 2 way](https://www.technologynetworks.com/informatics/articles/one-way-vs-two-way-anova-definition-differences-assumptions-and-hypotheses-306553)
 * [Kaggle Basics](https://towardsdatascience.com/how-to-begin-competing-on-kaggle-bd9b5f32dbbc)
 
