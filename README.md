@@ -23,6 +23,7 @@ This repository contains useful
 * [What are you reading? ML reddit](https://www.reddit.com/r/MachineLearning/comments/9s9el5/d_machine_learning_wayr_what_are_you_reading_week/)
 * [ML Cheat sheet with good theory explanations](http://www.datascienceassn.org/sites/default/files/Machine%20Learning%20Cheat%20Sheet%202015.pdf)
 * [MCMC without the bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+* [Visual explanation of algos](https://www.mladdict.com/) 
 * [Fitting gaussian processes](https://blog.dominodatalab.com/fitting-gaussian-process-models-python/)
 * [Stochastic Optimal Growth model](https://lectures.quantecon.org/py/optgrowth.html)
 * [Code for the book "Artificial Intelligence: A Modern Approach"](https://github.com/aimacode/aima-python)
