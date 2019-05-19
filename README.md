@@ -294,6 +294,7 @@ This repository contains useful
 * [1 minute videos](https://www.turingtribe.com)
 * [End to End RL blog](https://www.endtoend.ai/blog/)
 * [KDnuggets](https://www.kdnuggets.com)
+* [Chris Olah's blog](https://colah.github.io)
 * [LSH](https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4)
 * [Quantitative data science for predicitng stocks](https://www.quantopian.com/algorithms)
 * [TLDR challenge](https://www.reddit.com/r/MachineLearning/comments/a6erpw/project_the_tldr_challenge/?utm_source=reddit-android)
