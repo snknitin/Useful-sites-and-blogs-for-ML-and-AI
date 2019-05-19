@@ -288,6 +288,7 @@ This repository contains useful
 # Blogs and weekly sites/ contests
 
 * [Machine learning +](https://www.machinelearningplus.com)
+* [ML Explained](http://mlexplained.com)
 * [DeepHunt](https://deephunt.in)
 * [Brilliantly Wrong](http://arogozhnikov.github.io)
 * [Kaggle kernels](https://blog.shahinrostami.com)
