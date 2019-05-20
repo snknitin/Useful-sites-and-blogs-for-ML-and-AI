@@ -102,6 +102,7 @@ This repository contains useful
 * [OpenAI key papers in RL - 98 papers in 12 topics](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 * [Intro to RL blog post](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419)
 * [ALL RL algos and tutorials](https://github.com/omerbsezer/Reinforcement_learning_tutorial_with_demo)
+* [Hyper paramter tuning in DDQN](https://adgefficiency.com/dqn-tuning/)
 * [Creating custom RL gym environments - Ship navigation](https://towardsdatascience.com/openai-gym-from-scratch-619e39af121f)
 * [Custom env in gym structure](https://medium.com/@apoddar573/making-your-own-custom-environment-in-gym-c3b65ff8cdaa)
 * [Building Unity environments](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Getting-Started-with-Balance-Ball.md)
