@@ -68,6 +68,7 @@ This repository contains useful
 ### DL
 
 * [Cheat sheets for types of NN](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+* [NN not learning properly](http://theorangeduck.com/page/neural-network-not-working)
 * [Understanding the Disharmony between Batchnorm and Dropout](https://arxiv.org/pdf/1801.05134.pdf)
 * [Learning rate schedulers](https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/lr_scheduling/)
 * [Cyclical Learning Rate explanation](https://www.datacamp.com/community/tutorials/cyclical-learning-neural-nets)
