@@ -108,6 +108,7 @@ This repository contains useful
 * [Good implementations in pytorch](https://github.com/higgsfield/RL-Adventure)
 * [Hyper paramter tuning in DDQN](https://adgefficiency.com/dqn-tuning/)
 * [Huber Loss in DQN](https://www.reddit.com/r/MachineLearning/comments/6dmzdy/d_on_using_huber_loss_in_deep_qlearning/)
+* [On Value Functions and the Agent-Environment Boundary (DeepRL built on shaky foundations)](https://arxiv.org/pdf/1905.13341.pdf)
 * [Creating custom RL gym environments - Ship navigation](https://towardsdatascience.com/openai-gym-from-scratch-619e39af121f)
 * [Custom env in gym structure](https://medium.com/@apoddar573/making-your-own-custom-environment-in-gym-c3b65ff8cdaa)
 * [Building Unity environments](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Getting-Started-with-Balance-Ball.md)
