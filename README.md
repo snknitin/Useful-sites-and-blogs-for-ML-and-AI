@@ -107,6 +107,7 @@ This repository contains useful
 * [ALL RL algos and tutorials](https://github.com/omerbsezer/Reinforcement_learning_tutorial_with_demo)
 * [Good implementations in pytorch](https://github.com/higgsfield/RL-Adventure)
 * [Hyper paramter tuning in DDQN](https://adgefficiency.com/dqn-tuning/)
+* [Demystifying RL algos - On/Off policy](https://www.cs.ubc.ca/~gberseth/blog/demystifying-the-many-deep-reinforcement-learning-algorithms.html)
 * [Huber Loss in DQN](https://www.reddit.com/r/MachineLearning/comments/6dmzdy/d_on_using_huber_loss_in_deep_qlearning/)
 * [On Value Functions and the Agent-Environment Boundary (DeepRL built on shaky foundations)](https://arxiv.org/pdf/1905.13341.pdf)
 * [Creating custom RL gym environments - Ship navigation](https://towardsdatascience.com/openai-gym-from-scratch-619e39af121f)
