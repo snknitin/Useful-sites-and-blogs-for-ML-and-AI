@@ -213,6 +213,7 @@ This repository contains useful
 * [Saving and loading a model in Pytorch](https://stackoverflow.com/questions/42703500/best-way-to-save-a-trained-model-in-pytorch/43819235)
 * [SAVING AND LOADING MODELS](https://pytorch.org/tutorials/beginner/saving_loading_models.html)
 * [Best way to save a trained model in PyTorch](https://discuss.pytorch.org/t/saving-and-loading-a-model-in-pytorch/2610)
+* [Neural Style transfer](https://github.com/dstein64/pastiche)
 
 
 
