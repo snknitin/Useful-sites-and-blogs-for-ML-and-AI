@@ -317,6 +317,7 @@ This repository contains useful
 * [2 minute papers](https://www.youtube.com/user/keeroyz)
 * [Arxiv insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
 * [PyTorch,Keras,AWS,RL](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw/playlists)
+* [Simon's Institute](https://www.youtube.com/channel/UCW1C2xOfXsIzPgjXyuhkw9g)
 
 
 # Conference Notes
