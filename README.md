@@ -317,3 +317,7 @@ This repository contains useful
 * [Arxiv insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
 * [PyTorch,Keras,AWS,RL](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw/playlists)
 
+
+# Conference Notes
+
+* [ICML 2019](https://david-abel.github.io/notes/icml_2019.pdf)
