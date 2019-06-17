@@ -214,6 +214,7 @@ This repository contains useful
 * [SAVING AND LOADING MODELS](https://pytorch.org/tutorials/beginner/saving_loading_models.html)
 * [Best way to save a trained model in PyTorch](https://discuss.pytorch.org/t/saving-and-loading-a-model-in-pytorch/2610)
 * [Neural Style transfer](https://github.com/dstein64/pastiche)
+* [Brancher: A user-friendly PyTorch module for deep probabilistic inference](https://brancher.org/#tutorials)
 
 
 
