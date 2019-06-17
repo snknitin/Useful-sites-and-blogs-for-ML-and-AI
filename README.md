@@ -322,4 +322,4 @@ This repository contains useful
 
 * [ICML 2019](https://david-abel.github.io/notes/icml_2019.pdf)
 * [ICML 2018](https://david-abel.github.io/notes/icml_2018.pdf)
-* []()
+* [NIPS 2017](https://david-abel.github.io/notes/nips_2017.pdf)
