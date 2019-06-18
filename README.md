@@ -143,6 +143,7 @@ This repository contains useful
 * [Trading using RL](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/)
 * [Modeling long term future in model based RL](https://openreview.net/pdf?id=SkgQBn0cF7)
 * [Front Page of Deep Reinforcement Learning and AGI](https://www.deepcontrol.ai)
+* [Scaling Multi-Agent Reinforcement Learning](https://bair.berkeley.edu/blog/2018/12/12/rllib/)
 
 
 ### Genetic Algorithms
