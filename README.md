@@ -222,6 +222,7 @@ This repository contains useful
 * [Brancher: A user-friendly PyTorch module for deep probabilistic inference](https://brancher.org/#tutorials)
 * [WRITING DISTRIBUTED APPLICATIONS WITH PYTORCH](https://pytorch.org/tutorials/intermediate/dist_tuto.html)
 * [The right way to distribute the training over multiple GPUs and nodes.](https://github.com/pytorch/pytorch/issues/13826)
+* [Distributed Deep Reinforcement Learning with pytorch & tensorboard](https://github.com/jingweiz/pytorch-distributed)
 
 
 
