@@ -184,6 +184,8 @@ This repository contains useful
 * [TF with horovod](https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-horovod-tensorflow.html)
 * [Horovod uber blog](https://eng.uber.com/horovod/)
 * [Running multiple cuda applications on 1 GPU](https://stackoverflow.com/questions/31643570/running-more-than-one-cuda-applications-on-one-gpu)
+* [Reproduce Imagenet in 18 minutes](https://github.com/diux-dev/imagenet18)
+
 
 ### Feature Engineering or Preprocessing
 
@@ -219,6 +221,8 @@ This repository contains useful
 * [Neural Style transfer](https://github.com/dstein64/pastiche)
 * [Brancher: A user-friendly PyTorch module for deep probabilistic inference](https://brancher.org/#tutorials)
 * [WRITING DISTRIBUTED APPLICATIONS WITH PYTORCH](https://pytorch.org/tutorials/intermediate/dist_tuto.html)
+* [The right way to distribute the training over multiple GPUs and nodes.](https://github.com/pytorch/pytorch/issues/13826)
+
 
 
 
