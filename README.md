@@ -182,6 +182,7 @@ This repository contains useful
 * [Horovod instructions](https://github.com/horovod/horovod)
 * [TF with horovod](https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-horovod-tensorflow.html)
 * [Horovod uber blog](https://eng.uber.com/horovod/)
+* [Running multiple cuda applications on 1 GPU](https://stackoverflow.com/questions/31643570/running-more-than-one-cuda-applications-on-one-gpu)
 
 ### Feature Engineering or Preprocessing
 
