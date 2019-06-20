@@ -323,6 +323,10 @@ This repository contains useful
 * [Simon's Institute](https://www.youtube.com/channel/UCW1C2xOfXsIzPgjXyuhkw9g)
 
 
+# Kaggle
+
+* [Lending club loan data EDA](https://www.kaggle.com/janiobachmann/lending-club-risk-analysis-and-metrics)
+
 # Conference Notes
 
 * [ICML 2019](https://david-abel.github.io/notes/icml_2019.pdf)
