@@ -261,6 +261,7 @@ This repository contains useful
 * [Seaborn boxplot + swarm](https://stackoverflow.com/questions/44615759/how-can-box-plot-be-overlaid-on-top-of-swarm-plot-in-seaborn)
 * [Categorical seaborn plots](https://seaborn.pydata.org/tutorial/categorical.html)
 * [Using alpha in box plot for transparency](https://github.com/mwaskom/seaborn/issues/979)
+* [Matplotlib code examples](https://github.com/ageron/handson-ml/blob/master/tools_matplotlib.ipynb)
 
 
 
