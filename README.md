@@ -98,6 +98,7 @@ This repository contains useful
 * [Neural differential equations](https://medium.com/mit-technology-review/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai-56b6af3fe9a5)
 * [GAN Painter](http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4)
 * [Batchnorm and Relu order](https://www.reddit.com/r/MachineLearning/comments/67gonq/d_batch_normalization_before_or_after_relu/)
+* [Good Code for style transfer](https://github.com/Nick-Morgan/neural-style-transfer)
 
 
 ### RL
