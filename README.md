@@ -188,6 +188,7 @@ This repository contains useful
 * [Running multiple cuda applications on 1 GPU](https://stackoverflow.com/questions/31643570/running-more-than-one-cuda-applications-on-one-gpu)
 * [Reproduce Imagenet in 18 minutes](https://github.com/diux-dev/imagenet18)
 * [Checking GPU Utilization](https://stackoverflow.com/questions/8223811/top-command-for-gpus-using-cuda)
+* [Understanding GPU timelines and code issues](https://github.com/tensorflow/tensorflow/issues/3009)
 
 
 ### Feature Engineering or Preprocessing
