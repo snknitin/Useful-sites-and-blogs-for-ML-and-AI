@@ -186,6 +186,7 @@ This repository contains useful
 * [Horovod uber blog](https://eng.uber.com/horovod/)
 * [Running multiple cuda applications on 1 GPU](https://stackoverflow.com/questions/31643570/running-more-than-one-cuda-applications-on-one-gpu)
 * [Reproduce Imagenet in 18 minutes](https://github.com/diux-dev/imagenet18)
+* [Checking GPU Utilization](https://stackoverflow.com/questions/8223811/top-command-for-gpus-using-cuda)
 
 
 ### Feature Engineering or Preprocessing
