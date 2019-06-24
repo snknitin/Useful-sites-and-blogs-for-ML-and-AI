@@ -242,6 +242,7 @@ This repository contains useful
 )
 * [Graphnets](https://github.com/deepmind/graph_nets)
 * [TF2 course](https://github.com/ageron/tf2_course)
+* [TF vs Pytorch](https://www.reddit.com/r/MachineLearning/comments/ashu7r/d_assuming_excellent_knowledge_of_both_frameworks/)
 
 ## Scipy
 
