@@ -337,6 +337,11 @@ This repository contains useful
 * [Simon's Institute](https://www.youtube.com/channel/UCW1C2xOfXsIzPgjXyuhkw9g)
 
 
+# Git issues
+
+* [Hard reset of a single file](https://stackoverflow.com/questions/7147270/hard-reset-of-a-single-file)
+* [Undo last commit](https://code.likeagirl.io/how-to-undo-the-last-commit-393e7db2840b)
+
 # Kaggle
 
 * [Lending club loan data EDA](https://www.kaggle.com/janiobachmann/lending-club-risk-analysis-and-metrics)
