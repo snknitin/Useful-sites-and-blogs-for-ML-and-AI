@@ -191,6 +191,7 @@ This repository contains useful
 * [Understanding GPU timelines and code issues](https://github.com/tensorflow/tensorflow/issues/3009)
 * [FIFO queue fetch, deque_many still on CPU](https://github.com/tensorflow/tensorflow/issues/5722)
 * [Understanding the output of nvidia-smi](https://www.andrey-melentyev.com/monitoring-gpus.html)
+* [nvidia-smi Control your GPUs](https://www.microway.com/hpc-tech-tips/nvidia-smi_control-your-gpus/)
 
 
 ### Feature Engineering or Preprocessing
