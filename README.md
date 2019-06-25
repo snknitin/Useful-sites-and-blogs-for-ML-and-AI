@@ -190,6 +190,7 @@ This repository contains useful
 * [Checking GPU Utilization](https://stackoverflow.com/questions/8223811/top-command-for-gpus-using-cuda)
 * [Understanding GPU timelines and code issues](https://github.com/tensorflow/tensorflow/issues/3009)
 * [FIFO queue fetch, deque_many still on CPU](https://github.com/tensorflow/tensorflow/issues/5722)
+* [Understanding the output of nvidia-smi](https://www.andrey-melentyev.com/monitoring-gpus.html)
 
 
 ### Feature Engineering or Preprocessing
