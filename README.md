@@ -8,17 +8,55 @@ This repository contains useful
 * stack overflow fixes for few common problems people encounter when using machine learning libraries. 
 
 
+## Datasets or papers
 
-## Concepts
+* [Public datasets](https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets?fbclid=IwAR2ItypE1C6j3ZlU3CIdi9QvBODOVqKYI0fYZTwvy3uTqLSjvjj0kVqlPnQ)
+* [25 datasets for NLP](https://gengo.ai/datasets/the-best-25-datasets-for-natural-language-processing/)
+* [Semantic Scholar- for findinf relevant papers](https://www.semanticscholar.org)
+* [LSTM forecast - flight data from 10 1-3 hour flights](https://github.com/travisdesell/exact/tree/master/datasets/2018_ngafid)
+* [LSTM forecast - 122 coal burners readings](https://github.com/travisdesell/exact/tree/master/datasets/2018_coal)
 
-### Python Coding pitfalls or Tricks
+
+## Blogs and weekly sites/ contests
+
+* [Machine learning +](https://www.machinelearningplus.com)
+* [Papers with Code](https://paperswithcode.com)
+* [ML Explained](http://mlexplained.com)
+* [Short summaries of research papers](https://www.shortscience.org)
+* [DeepHunt](https://deephunt.in)
+* [Brilliantly Wrong](http://arogozhnikov.github.io)
+* [Kaggle kernels](https://blog.shahinrostami.com)
+* [1 minute videos](https://www.turingtribe.com)
+* [End to End RL blog](https://www.endtoend.ai/blog/)
+* [KDnuggets](https://www.kdnuggets.com)
+* [Skymind AI blog](https://skymind.ai/wiki/deep-reinforcement-learning)
+* [Chris Olah's blog](https://colah.github.io)
+* [LSH](https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4)
+* [Quantitative data science for predicitng stocks](https://www.quantopian.com/algorithms)
+* [TLDR challenge](https://www.reddit.com/r/MachineLearning/comments/a6erpw/project_the_tldr_challenge/?utm_source=reddit-android)
+* [Top conferences](http://www.guide2research.com/topconf/machine-learning)
+
+
+## Youtube Playlists
+
+* [2 minute papers](https://www.youtube.com/user/keeroyz)
+* [Arxiv insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
+* [PyTorch,Keras,AWS,RL](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw/playlists)
+* [Simon's Institute](https://www.youtube.com/channel/UCW1C2xOfXsIzPgjXyuhkw9g)
+
+
+## Python Coding pitfalls or Tricks
 
 * [Import issues](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html)
 * [Import fixes](https://alex.dzyoba.com/blog/python-import/)
 * [Using pickle or joblib](https://www.stefaanlippens.net/python-pickling-and-dealing-with-attributeerror-module-object-has-no-attribute-thing.html)
 * [Vectorization of loops](https://www.cs.utah.edu/~germain/PPS/Topics/Matlab/vectorized_or_array_operations.html)
 * [Blog with useful python tricks](https://dbader.org)
+* [Creating and publishing your package](https://python-packaging.readthedocs.io/en/latest/minimal.html)
 
+
+
+## Concepts
 ### ML+PGM
 
 * [What are you reading? ML reddit](https://www.reddit.com/r/MachineLearning/comments/9s9el5/d_machine_learning_wayr_what_are_you_reading_week/)
@@ -309,42 +347,6 @@ This repository contains useful
 * [All Courses offered by Big companies](https://www.reddit.com/r/artificial/comments/a14mel/amazon_opens_its_internal_machine_learning/ean1dja)
 * [Amazon AWS ML courses](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
-# Datasets or papers
-
-* [Public datasets](https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets?fbclid=IwAR2ItypE1C6j3ZlU3CIdi9QvBODOVqKYI0fYZTwvy3uTqLSjvjj0kVqlPnQ)
-* [25 datasets for NLP](https://gengo.ai/datasets/the-best-25-datasets-for-natural-language-processing/)
-* [Semantic Scholar- for findinf relevant papers](https://www.semanticscholar.org)
-* [LSTM forecast - flight data from 10 1-3 hour flights](https://github.com/travisdesell/exact/tree/master/datasets/2018_ngafid)
-* [LSTM forecast - 122 coal burners readings](https://github.com/travisdesell/exact/tree/master/datasets/2018_coal)
-
-## Python 
-
-* [Creating and publishing your package](https://python-packaging.readthedocs.io/en/latest/minimal.html)
-
-# Blogs and weekly sites/ contests
-
-* [Machine learning +](https://www.machinelearningplus.com)
-* [ML Explained](http://mlexplained.com)
-* [DeepHunt](https://deephunt.in)
-* [Brilliantly Wrong](http://arogozhnikov.github.io)
-* [Kaggle kernels](https://blog.shahinrostami.com)
-* [1 minute videos](https://www.turingtribe.com)
-* [End to End RL blog](https://www.endtoend.ai/blog/)
-* [KDnuggets](https://www.kdnuggets.com)
-* [Skymind AI blog](https://skymind.ai/wiki/deep-reinforcement-learning)
-* [Chris Olah's blog](https://colah.github.io)
-* [LSH](https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4)
-* [Quantitative data science for predicitng stocks](https://www.quantopian.com/algorithms)
-* [TLDR challenge](https://www.reddit.com/r/MachineLearning/comments/a6erpw/project_the_tldr_challenge/?utm_source=reddit-android)
-* [Top conferences](http://www.guide2research.com/topconf/machine-learning)
-
-
-# Youtube Playlists
-
-* [2 minute papers](https://www.youtube.com/user/keeroyz)
-* [Arxiv insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
-* [PyTorch,Keras,AWS,RL](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw/playlists)
-* [Simon's Institute](https://www.youtube.com/channel/UCW1C2xOfXsIzPgjXyuhkw9g)
 
 
 # Git issues
