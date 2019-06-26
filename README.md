@@ -17,6 +17,7 @@ This repository contains useful
 * [Import fixes](https://alex.dzyoba.com/blog/python-import/)
 * [Using pickle or joblib](https://www.stefaanlippens.net/python-pickling-and-dealing-with-attributeerror-module-object-has-no-attribute-thing.html)
 * [Vectorization of loops](https://www.cs.utah.edu/~germain/PPS/Topics/Matlab/vectorized_or_array_operations.html)
+* [Blog with useful python tricks](https://dbader.org)
 
 ### ML+PGM
 
