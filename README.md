@@ -197,6 +197,7 @@ This repository contains useful
 * [Guide to Linux top command](https://www.booleanworld.com/guide-linux-top-command/)
 * [Understanding CPU % utilization using lscpu](https://unix.stackexchange.com/questions/145247/understanding-cpu-while-running-top-command)
 * [Fully Utilizing your gpu](https://medium.com/@colinshaw_36798/fully-utilizing-your-deep-learning-gpus-61ee7acd3e57)
+* [Getting CUDA 8 to Work With openAI Gym on AWS ](https://davidsanwald.github.io/2016/11/13/building-tensorflow-with-gpu-support.html)
 
 
 ### Feature Engineering or Preprocessing
