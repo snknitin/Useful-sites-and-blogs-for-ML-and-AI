@@ -192,6 +192,7 @@ This repository contains useful
 * [FIFO queue fetch, deque_many still on CPU](https://github.com/tensorflow/tensorflow/issues/5722)
 * [Understanding the output of nvidia-smi](https://www.andrey-melentyev.com/monitoring-gpus.html)
 * [nvidia-smi Control your GPUs](https://www.microway.com/hpc-tech-tips/nvidia-smi_control-your-gpus/)
+* [Prevent tensorflow from allocating all gpu memory](https://stackoverflow.com/questions/34199233/how-to-prevent-tensorflow-from-allocating-the-totality-of-a-gpu-memory)
 
 
 ### Feature Engineering or Preprocessing
