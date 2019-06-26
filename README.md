@@ -196,6 +196,7 @@ This repository contains useful
 * [Using top command to check cpu utilization](https://www.tecmint.com/12-top-command-examples-in-linux/)
 * [Guide to Linux top command](https://www.booleanworld.com/guide-linux-top-command/)
 * [Understanding CPU % utilization using lscpu](https://unix.stackexchange.com/questions/145247/understanding-cpu-while-running-top-command)
+* [Fully Utilizing your gpu](https://medium.com/@colinshaw_36798/fully-utilizing-your-deep-learning-gpus-61ee7acd3e57)
 
 
 ### Feature Engineering or Preprocessing
