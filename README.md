@@ -193,6 +193,7 @@ This repository contains useful
 * [Understanding the output of nvidia-smi](https://www.andrey-melentyev.com/monitoring-gpus.html)
 * [nvidia-smi Control your GPUs](https://www.microway.com/hpc-tech-tips/nvidia-smi_control-your-gpus/)
 * [Prevent tensorflow from allocating all gpu memory](https://stackoverflow.com/questions/34199233/how-to-prevent-tensorflow-from-allocating-the-totality-of-a-gpu-memory)
+* [Using top command to check cpu utilization](https://www.tecmint.com/12-top-command-examples-in-linux/)
 
 
 ### Feature Engineering or Preprocessing
