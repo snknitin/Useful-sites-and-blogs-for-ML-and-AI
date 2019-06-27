@@ -187,6 +187,7 @@ This repository contains useful
 * [Modeling long term future in model based RL](https://openreview.net/pdf?id=SkgQBn0cF7)
 * [Front Page of Deep Reinforcement Learning and AGI](https://www.deepcontrol.ai)
 * [Scaling Multi-Agent Reinforcement Learning](https://bair.berkeley.edu/blog/2018/12/12/rllib/)
+* [Multi-gym env with subvecProc](https://squadrick.github.io/journal/efficient-multi-gym-environments.html)
 
 
 ### Genetic Algorithms
