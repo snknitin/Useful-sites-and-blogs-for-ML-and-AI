@@ -27,6 +27,7 @@ This repository contains useful
 * [Brilliantly Wrong](http://arogozhnikov.github.io)
 * [Kaggle kernels](https://blog.shahinrostami.com)
 * [1 minute videos](https://www.turingtribe.com)
+* [A Blog with few multiprocessing implementations in pytorch](http://blog.varunajayasiri.com/index.html)
 * [End to End RL blog](https://www.endtoend.ai/blog/)
 * [KDnuggets](https://www.kdnuggets.com)
 * [Skymind AI blog](https://skymind.ai/wiki/deep-reinforcement-learning)
