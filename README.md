@@ -241,6 +241,7 @@ This repository contains useful
 * [Getting CUDA 8 to Work With openAI Gym on AWS ](https://davidsanwald.github.io/2016/11/13/building-tensorflow-with-gpu-support.html)
 * [Measuring actual gpu utilization using wandb](https://towardsdatascience.com/measuring-actual-gpu-usage-for-deep-learning-training-e2bf3654bcfd)
 * [Multiprocessing and multithreading](https://timber.io/blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
+* [Optimizing PyTorch training code](https://sagivtech.com/2017/09/19/optimizing-pytorch-training-code/)
 
 ### Feature Engineering or Preprocessing
 
