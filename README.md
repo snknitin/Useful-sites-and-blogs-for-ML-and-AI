@@ -240,7 +240,7 @@ This repository contains useful
 * [Fully Utilizing your gpu](https://medium.com/@colinshaw_36798/fully-utilizing-your-deep-learning-gpus-61ee7acd3e57)
 * [Getting CUDA 8 to Work With openAI Gym on AWS ](https://davidsanwald.github.io/2016/11/13/building-tensorflow-with-gpu-support.html)
 * [Measuring actual gpu utilization using wandb](https://towardsdatascience.com/measuring-actual-gpu-usage-for-deep-learning-training-e2bf3654bcfd)
-
+* [Multiprocessing and multithreading](https://timber.io/blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
 
 ### Feature Engineering or Preprocessing
 
