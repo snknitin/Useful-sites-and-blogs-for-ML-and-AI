@@ -253,6 +253,7 @@ This repository contains useful
 * [Loading data from mongo into pandas](http://deo.im/2016/09/22/Load-data-from-mongodb-to-Pandas-DataFrame/)
 * [Faster way to loas tweets from mongo into pandas dataframe](https://alysivji.github.io/importing-mongo-documents-into-pandas-dataframes.html)
 * [Replace 0 with previous values](https://stackoverflow.com/questions/33261359/pandas-replace-zeros-with-previous-non-zero-value)
+* [Understanding the grouping and transforms](https://pbpython.com/pandas_transform.html)
 
 
 ## Numpy
