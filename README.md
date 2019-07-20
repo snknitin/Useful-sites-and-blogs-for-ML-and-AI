@@ -260,6 +260,7 @@ This repository contains useful
 
 ## Numpy
 
+* [Efficiently dealing with huge numpy arrays](http://chrisschell.de/2018/02/01/how-to-efficiently-deal-with-huge-Numpy-arrays.html)
 
 ## Keras
 
