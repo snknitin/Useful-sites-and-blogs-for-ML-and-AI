@@ -248,6 +248,7 @@ This repository contains useful
 
 * [Flatten a nested JSON](https://medium.com/@gis10kwo/converting-nested-json-data-to-csv-using-python-pandas-dc6eddc69175)
 * [Multi threading in python](https://linuxgazette.net/107/pai.html)
+* [How to allow daemonic processes to have children](https://stackoverflow.com/questions/6974695/python-process-pool-non-daemonic)
 
 ## Pandas
 
