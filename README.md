@@ -59,6 +59,7 @@ This repository contains useful
 
 
 
+
 ## Concepts
 ### ML+PGM
 
@@ -311,6 +312,7 @@ This repository contains useful
 
 ## Scikit-learn
 
+* [Value erro with Nan, inf,very large float](https://stackoverflow.com/questions/31323499/sklearn-error-valueerror-input-contains-nan-infinity-or-a-value-too-large-for)
 
 ## Data Visualization
 
