@@ -70,6 +70,7 @@ This repository contains useful
 * [Fitting gaussian processes](https://blog.dominodatalab.com/fitting-gaussian-process-models-python/)
 * [Stochastic Optimal Growth model](https://lectures.quantecon.org/py/optgrowth.html)
 * [Code for the book "Artificial Intelligence: A Modern Approach"](https://github.com/aimacode/aima-python)
+* [Visualize decision trees](https://www.kaggle.com/willkoehrsen/visualize-a-decision-tree-w-python-scikit-learn)
 
 ### Unsupervised
 
