@@ -145,6 +145,7 @@ This repository contains useful
 * [Batchnorm and Relu order](https://www.reddit.com/r/MachineLearning/comments/67gonq/d_batch_normalization_before_or_after_relu/)
 * [Good Code for style transfer](https://github.com/Nick-Morgan/neural-style-transfer)
 * [Autoencoders - Intro and Use cases](https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases)
+* [Variational Auto encoders](https://ermongroup.github.io/cs228-notes/extras/vae/)
 
 
 ### RL
