@@ -249,7 +249,8 @@ This repository contains useful
 * [Multiprocessing and multithreading](https://timber.io/blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/)
 * [Optimizing PyTorch training code](https://sagivtech.com/2017/09/19/optimizing-pytorch-training-code/)
 * [Distributed data parallel training using Pytorch on AWS](http://www.telesens.co/2019/04/04/distributed-data-parallel-training-using-pytorch-on-aws/)
-* []()
+* [Working with GPU](https://docs.fast.ai/dev/gpu.html)
+* [Performance Tips and Tricks](https://docs.fast.ai/performance.html)
 
 ### Engineering
 
