@@ -251,6 +251,7 @@ This repository contains useful
 * [Distributed data parallel training using Pytorch on AWS](http://www.telesens.co/2019/04/04/distributed-data-parallel-training-using-pytorch-on-aws/)
 * [Working with GPU](https://docs.fast.ai/dev/gpu.html)
 * [Performance Tips and Tricks](https://docs.fast.ai/performance.html)
+* [Technologies behind Distributed Deep Learning: AllReduce](https://preferredresearch.jp/2018/07/10/technologies-behind-distributed-deep-learning-allreduce/)
 
 ### Engineering
 
