@@ -271,6 +271,7 @@ This repository contains useful
 * [Understanding the grouping and transforms](https://pbpython.com/pandas_transform.html)
 * [Top 25 cool tricks](https://www.dataschool.io/python-pandas-tricks/)
 * [Selecting rows based on column values](https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas)
+* [Plotting histograms of columns](https://mode.com/example-gallery/python_histogram/)
 
 ## Numpy
 
