@@ -80,6 +80,7 @@ This repository contains useful
 * [Fast self-organizing maps in Python with Somoclu](https://peterwittek.com/somoclu-in-python.html)
 * [Unsupervised learning with SOM](https://machinelearningnepal.com/2018/01/17/online-som/)
 * [The Ultimate Guide to Self Organizing Maps (SOM's)](https://www.superdatascience.com/blogs/the-ultimate-guide-to-self-organizing-maps-soms)
+* [Implementing Self-Organizing Maps with Python and TensorFlow](https://rubikscode.net/2018/08/27/implementing-self-organizing-maps-with-python-and-tensorflow/)
 
 
 ### NLP
