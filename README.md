@@ -75,6 +75,7 @@ This repository contains useful
 ### Unsupervised
 
 * [Deep unsupervised videos series](https://m.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos)
+* [Self organizing maps](https://towardsdatascience.com/self-organizing-maps-ff5853a118d4)
 
 
 ### NLP
