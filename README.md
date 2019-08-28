@@ -77,6 +77,7 @@ This repository contains useful
 * [Deep unsupervised videos series](https://m.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos)
 * [Self organizing maps](https://towardsdatascience.com/self-organizing-maps-ff5853a118d4)
 * [Analyzing Climate Patterns with Self-Organizing Maps (SOMs)](https://towardsdatascience.com/analyzing-climate-patterns-with-self-organizing-maps-soms-8d4ef322705b)
+* [Fast self-organizing maps in Python with Somoclu](https://peterwittek.com/somoclu-in-python.html)
 
 
 ### NLP
