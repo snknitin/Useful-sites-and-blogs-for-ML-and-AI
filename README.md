@@ -79,6 +79,7 @@ This repository contains useful
 * [Analyzing Climate Patterns with Self-Organizing Maps (SOMs)](https://towardsdatascience.com/analyzing-climate-patterns-with-self-organizing-maps-soms-8d4ef322705b)
 * [Fast self-organizing maps in Python with Somoclu](https://peterwittek.com/somoclu-in-python.html)
 * [Unsupervised learning with SOM](https://machinelearningnepal.com/2018/01/17/online-som/)
+* [The Ultimate Guide to Self Organizing Maps (SOM's)](https://www.superdatascience.com/blogs/the-ultimate-guide-to-self-organizing-maps-soms)
 
 
 ### NLP
