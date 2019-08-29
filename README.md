@@ -215,6 +215,7 @@ This repository contains useful
 * [Convert to hq texture from old games](https://www.resetera.com/threads/ai-neural-networks-being-used-to-generate-hq-textures-for-older-games-you-can-do-it-yourself.88272/)
 * [MISGAN](https://github.com/steveli/misgan)
 * [GAIN](https://github.com/jsyoon0823/GAIN)
+* [Evaluating GANs](https://machinelearningmastery.com/how-to-evaluate-generative-adversarial-networks/)
 
 ### Data Science
 
