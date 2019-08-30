@@ -72,6 +72,7 @@ This repository contains useful
 * [Code for the book "Artificial Intelligence: A Modern Approach"](https://github.com/aimacode/aima-python)
 * [Visualize decision trees](https://www.kaggle.com/willkoehrsen/visualize-a-decision-tree-w-python-scikit-learn)
 * [Linear Regression Models with Python](http://mpastell.com/2013/04/19/python_regression/)
+* [Outlier detection](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)
 
 ### Unsupervised
 
