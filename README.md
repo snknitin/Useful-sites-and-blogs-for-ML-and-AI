@@ -219,6 +219,8 @@ This repository contains useful
 * [MISGAN](https://github.com/steveli/misgan)
 * [GAIN](https://github.com/jsyoon0823/GAIN)
 * [Evaluating GANs](https://machinelearningmastery.com/how-to-evaluate-generative-adversarial-networks/)
+* [Wide and Deep model](https://github.com/floydhub/regression-template/blob/master/wide-deep.ipynb)
+
 
 ### Data Science
 
