@@ -287,6 +287,7 @@ This repository contains useful
 * [Label encoding across multiple columns](https://stackoverflow.com/questions/24458645/label-encoding-across-multiple-columns-in-scikit-learn)
 * [Create dict using 2 columns as k,v](https://stackoverflow.com/questions/17426292/what-is-the-most-efficient-way-to-create-a-dictionary-of-two-pandas-dataframe-co)
 * [Explode multiple list columns into rows](https://stackoverflow.com/questions/45846765/efficient-way-to-unnest-explode-multiple-list-columns-in-a-pandas-dataframe)
+* [Split column with variable lists into binarized columns individually](https://datascience.stackexchange.com/questions/11797/split-a-list-of-values-into-columns-of-a-dataframe)
 
 ## Numpy
 
