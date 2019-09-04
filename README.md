@@ -288,6 +288,7 @@ This repository contains useful
 * [Create dict using 2 columns as k,v](https://stackoverflow.com/questions/17426292/what-is-the-most-efficient-way-to-create-a-dictionary-of-two-pandas-dataframe-co)
 * [Explode multiple list columns into rows](https://stackoverflow.com/questions/45846765/efficient-way-to-unnest-explode-multiple-list-columns-in-a-pandas-dataframe)
 * [Split column with variable lists into binarized columns individually](https://datascience.stackexchange.com/questions/11797/split-a-list-of-values-into-columns-of-a-dataframe)
+ * [Split variable lists column into binarized encodings](https://gist.github.com/jlln/338b4b0b55bd6984f883)
 
 ## Numpy
 
