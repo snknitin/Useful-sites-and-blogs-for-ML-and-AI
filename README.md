@@ -285,6 +285,7 @@ This repository contains useful
 * [Selecting rows based on column values](https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas)
 * [Plotting histograms of columns](https://mode.com/example-gallery/python_histogram/)
 * [Label encoding across multiple columns](https://stackoverflow.com/questions/24458645/label-encoding-across-multiple-columns-in-scikit-learn)
+* [Create dict using 2 columns as k,v](https://stackoverflow.com/questions/17426292/what-is-the-most-efficient-way-to-create-a-dictionary-of-two-pandas-dataframe-co)
 
 ## Numpy
 
