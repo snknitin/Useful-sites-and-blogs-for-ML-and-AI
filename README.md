@@ -391,7 +391,9 @@ This repository contains useful
 * [All Courses offered by Big companies](https://www.reddit.com/r/artificial/comments/a14mel/amazon_opens_its_internal_machine_learning/ean1dja)
 * [Amazon AWS ML courses](https://aws.amazon.com/training/learning-paths/machine-learning/)
 
+# Jupyter notebook tricks
 
+* [Advanced tricks](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
 
 # Git issues
 
