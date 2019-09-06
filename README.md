@@ -22,6 +22,7 @@ This repository contains useful
 * [Machine learning +](https://www.machinelearningplus.com)
 * [Papers with Code](https://paperswithcode.com)
 * [ML Explained](http://mlexplained.com)
+* [Data school with pandas tricks](https://www.dataschool.io)
 * [Short summaries of research papers](https://www.shortscience.org)
 * [DeepHunt](https://deephunt.in)
 * [Brilliantly Wrong](http://arogozhnikov.github.io)
