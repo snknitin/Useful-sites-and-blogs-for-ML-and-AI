@@ -75,6 +75,7 @@ This repository contains useful
 * [Linear Regression Models with Python](http://mpastell.com/2013/04/19/python_regression/)
 * [Outlier detection](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)
 * [Outlier detection with R](https://www.r-bloggers.com/outlier-detection-and-treatment-with-r/)
+* [ML implementation notes](https://persagen.com/files/ml-implementation_notes.html)
 
 ### Unsupervised
 
