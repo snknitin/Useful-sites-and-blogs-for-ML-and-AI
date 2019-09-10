@@ -344,6 +344,7 @@ This repository contains useful
 
 * [Value error with Nan, inf,very large float](https://stackoverflow.com/questions/31323499/sklearn-error-valueerror-input-contains-nan-infinity-or-a-value-too-large-for)
 * [Accessing cooks distance and hatvalues, residuals etc from scikit-learn](https://stackoverflow.com/questions/46304514/access-standardized-residuals-cooks-values-hatvalues-leverage-etc-easily-i)
+* [Effects of different types of scaling or normalizing](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html)
 
 ## Data Visualization
 
