@@ -365,7 +365,9 @@ This repository contains useful
 * [Using alpha in box plot for transparency](https://github.com/mwaskom/seaborn/issues/979)
 * [Matplotlib code examples](https://github.com/ageron/handson-ml/blob/master/tools_matplotlib.ipynb)
 
+## SQL
 
+* [JOINS](https://launchschool.com/books/sql/read/joins)
 
 ## Vision
 
