@@ -213,7 +213,9 @@ This repository contains useful
 * [Salesman example](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)
 * [Deep Neuroevolution](https://towardsdatascience.com/deep-neuroevolution-genetic-algorithms-are-a-competitive-alternative-for-training-deep-neural-822bfe3291f5)
 
+## Bayesian/Model interpretation
 
+* [Counterfactual explanations](https://christophm.github.io/interpretable-ml-book/counterfactual.html)
 
 ### GANS
 
