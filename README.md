@@ -216,6 +216,8 @@ This repository contains useful
 ## Bayesian/Model interpretation
 
 * [Counterfactual explanations](https://christophm.github.io/interpretable-ml-book/counterfactual.html)
+* [Understanding empirical Bayesian hierarchical modeling (using baseball statistics)](http://varianceexplained.org/r/hierarchical_bayes_baseball/)
+
 
 ### GANS
 
