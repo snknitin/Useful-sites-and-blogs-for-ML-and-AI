@@ -217,6 +217,8 @@ This repository contains useful
 
 * [Counterfactual explanations](https://christophm.github.io/interpretable-ml-book/counterfactual.html)
 * [Understanding empirical Bayesian hierarchical modeling (using baseball statistics)](http://varianceexplained.org/r/hierarchical_bayes_baseball/)
+* [A Bayesian Model for Forecasting Hierarchically Structured Time Series](https://forecasters.org/wp-content/uploads/Etchegaray_Novak.pdf)
+* [Hierarchical-Model-with-Bayesian-Method-for-Sales-Growth-Rate-prediction](https://github.com/DihengChen/Hierarchical-Model-with-Bayesian-Method-for-Sales-Growth-Rate-prediction)
 
 
 ### GANS
