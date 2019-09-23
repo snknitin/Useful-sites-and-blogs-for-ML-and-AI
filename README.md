@@ -59,6 +59,9 @@ This repository contains useful
 * [Terminating multi processing gracefully](https://cuyu.github.io/python/2016/08/15/Terminate-multiprocess-in-Python-correctly-and-gracefully)
 
 
+## Feature Engineering
+
+* [Feature tools](https://www.featuretools.com/demos/)
 
 
 ## Concepts
