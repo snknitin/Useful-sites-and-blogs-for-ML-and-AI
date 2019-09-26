@@ -69,6 +69,10 @@ This repository contains useful
 * [Flask complete tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 
+## Bayesian Optimization
+
+* [Efficient tuning of Online systems](https://research.fb.com/blog/2018/09/efficient-tuning-of-online-systems-using-bayesian-optimization/)
+
 ## Concepts
 ### ML+PGM
 
