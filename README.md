@@ -420,6 +420,7 @@ This repository contains useful
 # Jupyter notebook tricks
 
 * [Advanced tricks](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
+* [Expand cell size in jupyter](https://stackoverflow.com/questions/21971449/how-do-i-increase-the-cell-width-of-the-jupyter-ipython-notebook-in-my-browser)
 
 # Git issues
 
