@@ -382,6 +382,7 @@ This repository contains useful
 * [Categorical seaborn plots](https://seaborn.pydata.org/tutorial/categorical.html)
 * [Using alpha in box plot for transparency](https://github.com/mwaskom/seaborn/issues/979)
 * [Matplotlib code examples](https://github.com/ageron/handson-ml/blob/master/tools_matplotlib.ipynb)
+* [Folium maps](https://georgetsilva.github.io/posts/mapping-points-with-folium/)
 
 ## SQL
 
