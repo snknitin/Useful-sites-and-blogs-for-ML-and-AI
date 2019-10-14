@@ -15,6 +15,7 @@ This repository contains useful
 * [Semantic Scholar- for findinf relevant papers](https://www.semanticscholar.org)
 * [LSTM forecast - flight data from 10 1-3 hour flights](https://github.com/travisdesell/exact/tree/master/datasets/2018_ngafid)
 * [LSTM forecast - 122 coal burners readings](https://github.com/travisdesell/exact/tree/master/datasets/2018_coal)
+* [Creating dataset using Google images](https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/)
 
 
 ## Blogs and weekly sites/ contests
