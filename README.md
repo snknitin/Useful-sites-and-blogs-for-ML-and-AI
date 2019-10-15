@@ -67,6 +67,7 @@ This repository contains useful
 
 ## NSFW detection
 
+* [Blog about how to detect NSFW](https://emalliaraki.com/coded-gaze)
 
 
 
