@@ -400,6 +400,7 @@ This repository contains useful
 * [Image Filtering](https://lodev.org/cgtutor/filtering.html)
 * [Attention Augmented Convolutional Networks](https://arxiv.org/pdf/1904.09925.pdf)
 * [Inverse ResNet](https://arxiv.org/abs/1811.00995)
+* [OCR deeep learning keras](https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8)
 
 ## Timeseries
 
