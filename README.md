@@ -65,6 +65,11 @@ This repository contains useful
 * [Feature tools](https://www.featuretools.com/demos/)
 
 
+## NSFW detection
+
+
+
+
 ## Python Webserver
 
 * [Flask complete tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
@@ -431,6 +436,7 @@ This repository contains useful
 # Kaggle
 
 * [Lending club loan data EDA](https://www.kaggle.com/janiobachmann/lending-club-risk-analysis-and-metrics)
+* [Quora toxic comment classification](https://www.kaggle.com/rockmanxdi/quora-toxic-comment-classification-challenge)
 
 # Conference Notes
 
