@@ -114,6 +114,7 @@ This repository contains useful
 * [Unicode - Encode and decode issue with python 2.7 and 3.6](https://nedbatchelder.com/text/unipain.html)
 * [RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [Spacy tutorials](https://spacy.io/usage/spacy-101)
 * [How NLP Cracked Transfer Learning](https://jalammar.github.io/illustrated-bert/)
 * **Full Courses:**
    * [Oxford NLP course](https://github.com/oxford-cs-deepnlp-2017/lectures)
