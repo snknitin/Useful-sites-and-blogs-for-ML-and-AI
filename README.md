@@ -115,6 +115,7 @@ This repository contains useful
 * [RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Spacy tutorials](https://spacy.io/usage/spacy-101)
+* [Spacy meets BERT](https://explosion.ai/blog/spacy-transformers)
 * [How NLP Cracked Transfer Learning](https://jalammar.github.io/illustrated-bert/)
 * **Full Courses:**
    * [Oxford NLP course](https://github.com/oxford-cs-deepnlp-2017/lectures)
