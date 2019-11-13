@@ -120,6 +120,7 @@ This repository contains useful
 * [Topic modelling in gensim](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/)
 * [LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Spacy tutorials](https://spacy.io/usage/spacy-101)
+* [Topic modelling in python](https://ourcodingclub.github.io/2018/12/10/topic-modelling-python.html)
 * [Spacy meets BERT](https://explosion.ai/blog/spacy-transformers)
 * [How NLP Cracked Transfer Learning](https://jalammar.github.io/illustrated-bert/)
 * **Full Courses:**
