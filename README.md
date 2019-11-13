@@ -122,6 +122,7 @@ This repository contains useful
 * [Spacy tutorials](https://spacy.io/usage/spacy-101)
 * [Topic modelling in python](https://ourcodingclub.github.io/2018/12/10/topic-modelling-python.html)
 * [Spacy meets BERT](https://explosion.ai/blog/spacy-transformers)
+* [Topic modelling with nltk and gensim](https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21)
 * [How NLP Cracked Transfer Learning](https://jalammar.github.io/illustrated-bert/)
 * **Full Courses:**
    * [Oxford NLP course](https://github.com/oxford-cs-deepnlp-2017/lectures)
