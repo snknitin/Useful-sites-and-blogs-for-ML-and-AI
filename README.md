@@ -61,6 +61,7 @@ This repository contains useful
 * [Blog with useful python tricks](https://dbader.org)
 * [Creating and publishing your package](https://python-packaging.readthedocs.io/en/latest/minimal.html)
 * [Multiprocessing examples](https://www.journaldev.com/15631/python-multiprocessing-example)
+* [Passing one argument to different processes](https://stackoverflow.com/questions/28943106/passing-arguments-and-manager-dict-to-pool-in-multiprocessing-in-python-2-7)
 * [Terminating multi processing gracefully](https://cuyu.github.io/python/2016/08/15/Terminate-multiprocess-in-Python-correctly-and-gracefully)
 
 
