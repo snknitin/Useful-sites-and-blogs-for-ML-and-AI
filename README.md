@@ -423,6 +423,7 @@ This repository contains useful
 * [LSTM for time series](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
 * [Interpolating time series data](https://machinelearningmastery.com/resample-interpolate-time-series-data-python/)
 * [Forecasting sales](https://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/)
+* [Handle many time series at once](https://stats.stackexchange.com/questions/412276/how-to-handle-many-times-series-simultaneously)
 
 # Other curated lists/courses: 
 
