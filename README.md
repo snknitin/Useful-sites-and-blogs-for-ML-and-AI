@@ -424,6 +424,7 @@ This repository contains useful
 * [Interpolating time series data](https://machinelearningmastery.com/resample-interpolate-time-series-data-python/)
 * [Forecasting sales](https://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/)
 * [Handle many time series at once](https://stats.stackexchange.com/questions/412276/how-to-handle-many-times-series-simultaneously)
+* [Many tutorials and codes](https://github.com/tristanga/Machine-Learning)
 
 # Other curated lists/courses: 
 
