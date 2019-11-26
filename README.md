@@ -154,6 +154,7 @@ This repository contains useful
 ### DL
 
 * [Cheat sheets for types of NN](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+* [NN architecture zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 * [Best Practices guide](http://www.prace-ri.eu/best-practice-guide-deep-learning#id-1.6.6)
 * [NN not learning properly](http://theorangeduck.com/page/neural-network-not-working)
 * [Understanding the Disharmony between Batchnorm and Dropout](https://arxiv.org/pdf/1801.05134.pdf)
