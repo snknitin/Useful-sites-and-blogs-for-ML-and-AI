@@ -425,6 +425,7 @@ This repository contains useful
 * [Forecasting sales](https://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/)
 * [Handle many time series at once](https://stats.stackexchange.com/questions/412276/how-to-handle-many-times-series-simultaneously)
 * [Many tutorials and codes](https://github.com/tristanga/Machine-Learning)
+* [UMBRAE metric](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5365136/)
 
 # Other curated lists/courses: 
 
