@@ -333,6 +333,7 @@ This repository contains useful
  * [Split variable lists column into binarized encodings](https://gist.github.com/jlln/338b4b0b55bd6984f883)
  * [Using Sklearn for multi label binarizer dataframe](https://datascience.stackexchange.com/questions/11797/split-a-list-of-values-into-columns-of-a-dataframe)
  * [Random dataframe rows sampling based on values of another column](https://stackoverflow.com/questions/46028283/random-sampling-pandas-based-on-column-values)
+ * [Exploding a list column in pandas](https://stackoverflow.com/questions/53218931/how-to-unnest-explode-a-column-in-a-pandas-dataframe)
 
 ## Numpy
 
