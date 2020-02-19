@@ -64,7 +64,7 @@ This repository contains useful
 * [Thing to know before multiprocessing](https://www.cloudcity.io/blog/2019/02/27/things-i-wish-they-told-me-about-multiprocessing-in-python/)
 * [Passing one argument to different processes](https://stackoverflow.com/questions/28943106/passing-arguments-and-manager-dict-to-pool-in-multiprocessing-in-python-2-7)
 * [Terminating multi processing gracefully](https://cuyu.github.io/python/2016/08/15/Terminate-multiprocess-in-Python-correctly-and-gracefully)
-
+* [Regular expressions](https://www.dataquest.io/blog/regular-expressions-data-scientists/)
 
 ## Feature Engineering
 
