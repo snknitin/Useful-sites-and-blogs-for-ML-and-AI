@@ -189,7 +189,7 @@ This repository contains useful
 * [Good Code for style transfer](https://github.com/Nick-Morgan/neural-style-transfer)
 * [Autoencoders - Intro and Use cases](https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases)
 * [Variational Auto encoders](https://ermongroup.github.io/cs228-notes/extras/vae/)
-
+* [Graph based learning](https://towardsdatascience.com/learning-in-graphs-with-python-part-3-8d5513eef62d)
 
 ### RL
 
