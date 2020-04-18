@@ -394,6 +394,7 @@ This repository contains useful
 
 ## Data Visualization
 
+* [All tricks in a notebook](https://nbviewer.jupyter.org/github/python-visualization/folium/tree/master/examples/)
 * [Python graph gallery - best resource for any visualization trick](https://python-graph-gallery.com)
 * [Top 50 matplotlib code and visualization](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
 * [Ultimate seaborn guide](https://elitedatascience.com/python-seaborn-tutorial)
