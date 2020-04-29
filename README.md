@@ -101,6 +101,7 @@ This repository contains useful
 * [Outlier detection](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)
 * [Outlier detection with R](https://www.r-bloggers.com/outlier-detection-and-treatment-with-r/)
 * [ML implementation notes](https://persagen.com/files/ml-implementation_notes.html)
+* [Architectures to implement](https://www.reddit.com/r/MachineLearning/comments/8vmuet/d_what_deep_learning_papers_should_i_implement_to/)
 
 ### Unsupervised
 
