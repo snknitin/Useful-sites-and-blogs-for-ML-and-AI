@@ -428,6 +428,7 @@ This repository contains useful
 
 * [ML on timeseries data](https://www.reddit.com/r/MachineLearning/comments/9ofd7x/d_machine_learning_on_time_series_data/)
 * [Jordan Kern lectures 14-18](https://www.youtube.com/watch?v=8tDzNzRJqzg)
+* [Everything you can do with a time series data](https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series)
 * [Time series in TF](https://burakhimmetoglu.com/2017/08/22/time-series-classification-with-tensorflow/)
 * [LSTM for time series](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
 * [Interpolating time series data](https://machinelearningmastery.com/resample-interpolate-time-series-data-python/)
