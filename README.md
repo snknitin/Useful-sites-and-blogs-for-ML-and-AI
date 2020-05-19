@@ -430,7 +430,7 @@ This repository contains useful
 * [Jordan Kern lectures 14-18](https://www.youtube.com/watch?v=8tDzNzRJqzg)
 * [Everything you can do with a time series data](https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series)
 * [TSA on store retil item demand](https://www.kaggle.com/adityaecdrid/my-first-time-series-comp-added-prophet)
-* []()
+* [Deeplearning for Time series](https://www.kaggle.com/dimitreoliveira/deep-learning-for-time-series-forecasting)
 * [Time series in TF](https://burakhimmetoglu.com/2017/08/22/time-series-classification-with-tensorflow/)
 * [LSTM for time series](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
 * [Interpolating time series data](https://machinelearningmastery.com/resample-interpolate-time-series-data-python/)
