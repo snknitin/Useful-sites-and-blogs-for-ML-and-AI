@@ -428,6 +428,7 @@ This repository contains useful
 
 * [ML on timeseries data](https://www.reddit.com/r/MachineLearning/comments/9ofd7x/d_machine_learning_on_time_series_data/)
 * [Jordan Kern lectures 14-18](https://www.youtube.com/watch?v=8tDzNzRJqzg)
+* [Code for introductory concepts](https://www.kaggle.com/moizzz/introduction-to-forecasting)
 * [Everything you can do with a time series data](https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series)
 * [TSA on store retil item demand](https://www.kaggle.com/adityaecdrid/my-first-time-series-comp-added-prophet)
 * [Deeplearning for Time series](https://www.kaggle.com/dimitreoliveira/deep-learning-for-time-series-forecasting)
